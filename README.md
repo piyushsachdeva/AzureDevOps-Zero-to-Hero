@@ -1,6 +1,6 @@
-# AzureDevOps-Zero-to-Hero with realtime projects
+# AzureDevOps-Zero-to-Hero with real-time projects
 
-Welcome to our comprehensive course on Azure DevOps where we'll dive deep into practical projects that will help you master Azure DevOps and bolster your DevOps skills.
+Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into practical projects that will help you master Azure DevOps and bolster your DevOps skills.
 
 ### Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
 
@@ -12,6 +12,7 @@ Welcome to our comprehensive course on Azure DevOps where we'll dive deep into p
 
 ### Day 2: Azure Boards and Agile Project Management 📊
 
+- Azure DevOps Demo Generator 
 - Azure Boards Overview
 - Defining Teams and Work Items
 - Defining Sprints
@@ -20,14 +21,29 @@ Welcome to our comprehensive course on Azure DevOps where we'll dive deep into p
 - Dashboards in Azure Boards
 - Sample Application showing how multiple developers/DevOps engineers work with Azure boards
 
-### Day 3: Build and Release Pipelines 🚀
+### Day 3: Mastering Git and Source Control in Azure DevOps 🌿
+
+- Introduction to Source Control and Git
+- Git vs TFVC
+- configure Visual Code
+- Git Flows and Branching Strategies
+- Cloning the repo
+- Commit changes
+- Reviewing history
+- Working with branches
+- Tagging a release
+- Managing repository
+- Sample Application: Static Website Hosting
+
+### Day 4: Build and Release Pipelines 🚀
 
 - Build Pipeline vs. Release Pipeline
 - Creating Build Pipelines
+- variables, triggers, agents
 - Automating Deployment with Release Pipelines
-- Sample Application: 
+- Sample Application: Webapp with blue-green using slots
 
-### Day 4: Azure Test Plans and Testing 🧪
+### Day 5: Azure Test Plans and Testing 🧪
 
 - Azure Test Plan Overview
 - Types of Tests (e.g., manual, automated, load)
@@ -35,13 +51,7 @@ Welcome to our comprehensive course on Azure DevOps where we'll dive deep into p
 - Running a URL Load Test
 - Sample Application: 
 
-### Day 5: Mastering Git and Source Control in Azure DevOps 🌿
 
-- Introduction to Source Control and Git
-- Git Flows and Branching Strategies
-- Managing Git Repositories
-- Committing and Tracking Changes
-- Sample Application: Static Website Hosting
 
 ### Day 6: Building and Deploying a Simple Web Application 🌐
 
@@ -61,6 +71,7 @@ Welcome to our comprehensive course on Azure DevOps where we'll dive deep into p
 
 - Overview of Azure Artifacts
 - Creating and Managing Simple Packages
+- Promoting the package
 - Basic Dependency Management
 - Sample Application: 
 
@@ -69,6 +80,7 @@ Welcome to our comprehensive course on Azure DevOps where we'll dive deep into p
 - Managing Access and Security Settings
 - Implementing Basic Security Practices
 - Protecting Sensitive Data in Pipelines
+- Include static code analysis and vulnerability scanning
 - Sample Application: DevSecOps Pipeline for an Online Banking Application
 - 
 ### Day 10: Serverless app CICD 🐳
@@ -112,3 +124,4 @@ Welcome to our comprehensive course on Azure DevOps where we'll dive deep into p
 - Incorporating What You've Learned into Real-World Scenarios
 - Preparing for Interviews, Networking, and Continuous Learning
 
+Azure devops wiki
