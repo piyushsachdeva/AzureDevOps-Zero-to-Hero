@@ -3,6 +3,12 @@
 Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into practical projects that will help you master Azure DevOps and bolster your DevOps skills.
 **This playlist will be published on my YouTube channel, and it is free for anyone to use and follow along.**
 
+### Day 0: Introduction to the course
+- What topics will be included in the playlist
+- Important dates and timelines
+- Useful resources
+- Pre-requisites and requirements
+
 ### Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
 
 - What is DevOps and Why It Matters
