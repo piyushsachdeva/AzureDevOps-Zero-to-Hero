@@ -130,7 +130,11 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Lesson learned
 - How to start debugging your issues and ask for help wherever you are stuck
 - 10 real-time issues that we have faced during the playlist implementation and how we fixed them
-- 
+
+
+### Contributions are welcome:
+You can raise the pull request to contribute to the course material, do not forget to star the repository.
+ 
 ## 🔗 Join our community 👇  
 
 
