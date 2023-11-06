@@ -1,6 +1,7 @@
 # AzureDevOps-Zero-to-Hero with real-time projects
 
 Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into practical projects that will help you master Azure DevOps and bolster your DevOps skills.
+**This playlist will be published on my YouTube channel, and it is free for anyone to use and follow along.**
 
 ### Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
 
@@ -68,6 +69,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 ### Day 8: Azure DevOps wiki and creating Architectural diagrams
 - Overview of wiki
+- Introduction to MarkDown
 - How we can use Azure DevOps wiki to collaborate on a project
 - Importance of documentation
 - How to create effective architectural diagrams
@@ -120,6 +122,11 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 ### Day 15: Showcasing Your Knowledge and Preparing for the Future 🌟
 
 - Incorporating What You've Learned into Real-World Scenarios
+- Setting up your Github Profile, LinkedIn profile, and resume to include the projects
 - Preparing for Interviews, Networking, and Continuous Learning
 
+### Day16: Bonus Lecture: How to debug real-time issues with Azure DevOps
+- Lesson learned
+- How to start debugging your issues and ask for help wherever you are stuck
+- 10 real-time issues that we have faced during the playlist implementation and how did we fixed them
 
