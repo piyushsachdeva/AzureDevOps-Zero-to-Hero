@@ -7,6 +7,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - What is DevOps and Why It Matters
 - What is Agile
 - What is CI/CD
+- Azure DevOps walkthrough
 - Creating an Azure DevOps Organization
 - Creating an Azure DevOps Project
 
@@ -19,13 +20,12 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Defining Features and Epics
 - Using Boards with GitHub
 - Dashboards in Azure Boards
-- Sample Application showing how multiple developers/DevOps engineers work with Azure boards
 
 ### Day 3: Mastering Git and Source Control in Azure DevOps 🌿
 
 - Introduction to Source Control and Git
 - Git vs TFVC
-- configure Visual Code
+- Configure Visual Code
 - Git Flows and Branching Strategies
 - Cloning the repo
 - Commit changes
@@ -41,7 +41,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Creating Build Pipelines
 - variables, triggers, agents
 - Automating Deployment with Release Pipelines
-- Sample Application: Webapp with blue-green using slots
+- Sample Application: Webapp with blue-green deployment using slots
 
 ### Day 5: Azure Test Plans and Testing 🧪
 
@@ -49,9 +49,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Types of Tests (e.g., manual, automated, load)
 - Creating a Manual Test Plan
 - Running a URL Load Test
-- Sample Application: 
-
-
+- Sample Application: (To be decided)
 
 ### Day 6: Building and Deploying a Simple Web Application 🌐
 
@@ -60,20 +58,19 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Deploying the Application to Azure
 - Sample Application: 3-Tier Application Implementation
 
-### Day 7: Introduction to Agile Project Management 🗂️
-
-- Understanding Work Items and Backlogs
-- Managing Tasks and User Stories
-- Planning and Tracking Progress
-- Sample Application: 2-Tier Application IaC
-
-### Day 8: Basic Project Artifacts with Azure Artifacts 📦
+### Day 7: Basic Project Artifacts with Azure Artifacts 📦
 
 - Overview of Azure Artifacts
 - Creating and Managing Simple Packages
 - Promoting the package
 - Basic Dependency Management
-- Sample Application: 
+- Sample Application: To be decided
+
+### Day 8: Azure DevOps wiki and creating Architectural diagrams
+- Overview of wiki
+- How we can use Azure DevOps wiki to collaborate on a project
+- Importance of documentation
+- How to create effective architectural diagrams
 
 ### Day 9: Security and Permissions in Azure DevOps 🔐
 
@@ -82,12 +79,13 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Protecting Sensitive Data in Pipelines
 - Include static code analysis and vulnerability scanning
 - Sample Application: DevSecOps Pipeline for an Online Banking Application
-- 
+
 ### Day 10: Serverless app CICD 🐳
 
 - Understanding Containers and Docker
 - Containerizing Applications
-- Introduction to Kubernetes
+- Introduction to Azure functions
+- Build and release pipeline for building and deploying the code to Azure Functions
 - Sample Application: Serverless QR Code Generator
 
 ### Day 11: Advanced CI/CD Pipelines and Deployment Strategies 🚢
@@ -95,22 +93,23 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Building Multi-Stage CI/CD Pipelines
 - Implementing Deployment Strategies (Blue-Green, Canary)
 - Managing Pipeline Variables and Environments
-- Sample application:
+- Sample application: To be decided
 
 ### Day 12: Infrastructure as Code (IaC) and Azure DevOps 📟
 
 - Introduction to IaC and Tools
 - Creating Infrastructure Definitions
 - Automating Infrastructure Provisioning using ARM template
-- Using Terraform
-- sample app: 
+- Automating Infrastructure Provisioning using Terraform
+- sample app: To be decided
 
 ### Day 13: Managing Containers and Microservices 🐋
 
 - Working with Containers in DevOps
 - Orchestrating Microservices with Kubernetes
 - Deploying Microservices
-- Sample application: GitOps Pipeline for Patching Application Servers
+- Overview of GitOps
+- Sample application: GitOps Pipeline for deploying a sample application(TBD)
 
 ### Day 14: Building a Complex Real-World Project 🌐
 
@@ -120,8 +119,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 ### Day 15: Showcasing Your Knowledge and Preparing for the Future 🌟
 
-- Deploying and Showcasing Your Complex Project
 - Incorporating What You've Learned into Real-World Scenarios
 - Preparing for Interviews, Networking, and Continuous Learning
 
-Azure devops wiki
+
