@@ -1,13 +1,8 @@
 # AzureDevOps-Zero-to-Hero with real-time projects
 
-Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into practical projects that will help you master Azure DevOps and bolster your DevOps skills.
+Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into concepts, demos, and real-time projects to help you master Azure DevOps and bolster your DevOps skills.
 **This playlist will be published on my YouTube channel, and it is free for anyone to use and follow along.**
 
-### Day 0: Introduction to the course
-- What topics will be included in the playlist
-- Important dates and timelines
-- Useful resources
-- Pre-requisites and requirements
 
 ### Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
 
@@ -134,5 +129,5 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 ### Day16: Bonus Lecture: How to debug real-time issues with Azure DevOps
 - Lesson learned
 - How to start debugging your issues and ask for help wherever you are stuck
-- 10 real-time issues that we have faced during the playlist implementation and how did we fixed them
+- 10 real-time issues that we have faced during the playlist implementation and how we fixed them
 
