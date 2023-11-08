@@ -9,6 +9,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 ### Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
 
+- What is Cloud Computing
 - What is DevOps and Why It Matters
 - What is Agile
 - What is CI/CD
