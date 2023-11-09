@@ -1,14 +1,14 @@
 # WORK IN PROGRESS - Please do not peak lol
 
-## What is Azure DevOps
+## What is Azure DevOps 🤷‍♂️
 Azure DevOps is a suite of services you can implement end-to-end DevOps in your organization. It includes services such as Azure Repos, Boards, Wiki, Build and Release pipelines, Test plans, Artifacts, etc.
 
-## Type of Hosting Options
+## Type of Hosting Options 🚀
 You can work in the cloud using **Azure DevOps Services** or on-premises using **Azure DevOps Server**.
 Organizations that want complete control over their data would mostly prefer to use **Azure DevOps Server**.
 We will use the cloud offering **Azure DevOps Services** throughout our course.
 
-## Pricing
+## Pricing 💲💲💲
 In the basic plan, you will get the first 5 users free of cost with all the services within certain limits except the Azure test plan, for which you need a Basic+Test plan subscription/
 
 ### Below are the details of both plans:
@@ -19,7 +19,7 @@ In the basic plan, you will get the first 5 users free of cost with all the serv
 
 **If you are a Visual Studio subscriber, you can get access to any number of organizations and don't count against your 5 free users.**
 
-## Pre-requisites
+## Pre-requisites ✅
 
 - Sign up for Azure DevOps by clicking 👉 [here](https://azure.microsoft.com/en-us/products/devops/)👈
 - Then click **Start free**
