@@ -8,12 +8,13 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
+**Status**: Recording ✅ Editing 👨‍💻(In-progress) Estimated Publish Date: 13th Nov
 
 - What is Cloud Computing
 - IaaS VS PaaS VS SaaS
 - What is DevOps and Why It Matters
 - Problems with the traditional software development life cycle (SDLC)
-- What is Agile and how it solves the above challenges
+- What is Agile, and how it solves the above challenges
 - What is CI/CD
 - What is Azure DevOps and a quick walkthrough
 - Creating an Azure DevOps Organization
