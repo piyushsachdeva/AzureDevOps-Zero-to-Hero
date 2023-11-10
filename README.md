@@ -8,7 +8,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
-**Status**: Recording ✅ Editing 👨‍💻(In-progress) Estimated Publish Date: 13th Nov
+**Status**: Video Scheduled to be live on 13th Nov ✅
 
 - What is Cloud Computing
 - IaaS VS PaaS VS SaaS
