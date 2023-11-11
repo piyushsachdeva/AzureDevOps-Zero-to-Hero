@@ -1,5 +1,13 @@
 # WORK IN PROGRESS - Please do not peak lol
 
+## What is Cloud Computing?
+
+## What is the Waterfall model and traditional software development lifecycle?
+
+## What were the challenges with the waterfall model?
+
+
+
 ## What is Azure DevOps 🤷‍♂️
 Azure DevOps is a suite of services you can implement end-to-end DevOps in your organization. It includes services such as Azure Repos, Boards, Wiki, Build and Release pipelines, Test plans, Artifacts, etc.
 
