@@ -28,76 +28,93 @@ The basic process contains three work item types:
 
 ![Basic Process](https://learn.microsoft.com/en-us/azure/devops/boards/get-started/media/about-boards/hierarchy-2.png?view=azure-devops)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Tasks</title>
+  <style>
+    h1 {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+    }
+
+    .epic, .issue, .task {
+      margin-left: 10px;
+      display: flex;
+      align-items: center;
+    }
+
+    .epic {
+      color: #3498db;
+    }
+
+    .issue {
+      color: #2ecc71;
+    }
+
+    .task {
+      color: #e67e22;
+    }
+
+    .icon {
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+
 <h1>Project Tasks</h1>
 
-<details open>
-  <summary class="epic">
+<ul>
+  <li class="epic">
     <span class="icon">👑</span>Epics
-  </summary>
-  <ul>
-    <li>
-      <details open>
-        <summary class="epic">
-          <span class="icon">👑</span>Website Updates
-        </summary>
+    <ul>
+      <li class="epic">
+        <span class="icon">👑</span>Website Updates
         <ul>
-          <li>
-            <details open>
-              <summary class="issue">
-                <span class="icon">📗</span>Homepage
-              </summary>
-              <ul>
-               <li> <span class="icon">☑</span>Designing a homepage header </li>
-                <li> <span class="icon">☑</span>Standardizing fonts </li>
-                 <li> <span class="icon">☑</span>Fixing the homepage CSS to make it mobile responsive </li>
-              </ul>
-            </details>
+          <li class="issue">
+            <span class="icon">📗</span>Homepage
+            <ul>
+              <li class="task"> <span class="icon">☑</span>Designing a homepage header </li>
+              <li class="task"> <span class="icon">☑</span>Standardizing fonts </li>
+              <li class="task"> <span class="icon">☑</span>Fixing the homepage CSS to make it mobile responsive </li>
+            </ul>
           </li>
-          <li>
-            <details open>
-              <summary class="issue">
-                <span class="icon">ℹ📗</span>About Us Page
-              </summary>
-              <ul>
-                <!-- Add specific tasks for About Us Page -->
-              </ul>
-            </details>
+          <li class="issue">
+            <span class="icon">ℹ📗</span>About Us Page
+            <ul>
+              <!-- Add specific tasks for About Us Page -->
+            </ul>
           </li>
-          <li>
-            <details open>
-              <summary class="issue">
-                <span class="icon">📗</span>Secure Sign-In
-              </summary>
-              <ul>
-                <!-- Add specific tasks for Secure Sign-In -->
-              </ul>
-            </details>
+          <li class="issue">
+            <span class="icon">📗</span>Secure Sign-In
+            <ul>
+              <!-- Add specific tasks for Secure Sign-In -->
+            </ul>
           </li>
         </ul>
-      </details>
-    </li>
-    <li>
-      <details open>
-        <summary class="epic">
-          <span class="icon">☁👑</span>Cloud Migration
-        </summary>
+      </li>
+      <li class="epic">
+        <span class="icon">☁👑</span>Cloud Migration
         <ul>
           <!-- Add specific tasks for Cloud Migration -->
         </ul>
-      </details>
-    </li>
-    <li>
-      <details open>
-        <summary class="epic">
-          <span class="icon">👑</span>CICD Implementation
-        </summary>
+      </li>
+      <li class="epic">
+        <span class="icon">👑</span>CICD Implementation
         <ul>
           <!-- Add specific tasks for CICD Implementation -->
         </ul>
-      </details>
-    </li>
-  </ul>
-</details>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+</body>
+</html>
+
 
 
 
