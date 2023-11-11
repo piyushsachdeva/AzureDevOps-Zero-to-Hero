@@ -62,7 +62,7 @@ The basic process contains three work item types:
         </ul>
       </li>
       <li class="epic">
-        <span class="icon">☁👑</span>Cloud Migration
+        <span class="icon">👑</span>Cloud Migration
         <ul>
           <!-- Add specific tasks for Cloud Migration -->
         </ul>
