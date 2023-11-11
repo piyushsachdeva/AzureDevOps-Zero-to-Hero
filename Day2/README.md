@@ -100,9 +100,6 @@ The basic process contains three work item types:
 </details>
 
 
-</body>
-</html>
-
 
 ## Defining Sprints
 
