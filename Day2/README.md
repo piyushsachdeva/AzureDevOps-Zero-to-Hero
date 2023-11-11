@@ -28,50 +28,6 @@ The basic process contains three work item types:
 
 ![Basic Process](https://learn.microsoft.com/en-us/azure/devops/boards/get-started/media/about-boards/hierarchy-2.png?view=azure-devops)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Project Tasks</title>
-  <style>
-    details {
-      margin-bottom: 10px;
-    }
-
-    summary {
-      font-weight: bold;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-    }
-
-    summary:hover {
-      text-decoration: underline;
-    }
-
-    .epic {
-      color: #3498db;
-      margin-left: 10px;
-    }
-
-    .issue {
-      color: #2ecc71;
-      margin-left: 20px;
-    }
-
-    .task {
-      color: #e67e22;
-      margin-left: 30px;
-    }
-
-    .icon {
-      margin-right: 5px;
-    }
-  </style>
-</head>
-<body>
-
 <h1>Project Tasks</h1>
 
 <details open>
@@ -95,7 +51,6 @@ The basic process contains three work item types:
                 <li class="task">Designing a homepage header</li>
                 <li> <span class="icon">☑</span>Standardizing fonts </li>
                  <li> <span class="icon">☑</span>Fixing the homepage CSS to make it mobile responsive </li>
-             
               </ul>
             </details>
           </li>
