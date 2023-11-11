@@ -76,31 +76,33 @@ The basic process contains three work item types:
 
 <details open>
   <summary class="epic">
-    <span class="icon">🚀</span>Epics
+    <span class="icon">👑</span>Epics
   </summary>
   <ul>
     <li>
       <details open>
         <summary class="epic">
-          <span class="icon">🌐</span>Website Updates
+          <span class="icon">👑</span>Website Updates
         </summary>
         <ul>
           <li>
             <details open>
               <summary class="issue">
-                <span class="icon">🏠</span>Homepage
+                <span class="icon">📗</span>Homepage
               </summary>
               <ul>
+               <li> <span class="icon">☑</span>Designing a homepage header </li>
                 <li class="task">Designing a homepage header</li>
-                <li class="task">Standardizing fonts</li>
-                <li class="task">Fixing the homepage CSS to make it mobile responsive</li>
+                <li> <span class="icon">☑</span>Standardizing fonts </li>
+                 <li> <span class="icon">☑</span>Fixing the homepage CSS to make it mobile responsive </li>
+             
               </ul>
             </details>
           </li>
           <li>
             <details open>
               <summary class="issue">
-                <span class="icon">ℹ️</span>About Us Page
+                <span class="icon">ℹ📗</span>About Us Page
               </summary>
               <ul>
                 <!-- Add specific tasks for About Us Page -->
@@ -110,7 +112,7 @@ The basic process contains three work item types:
           <li>
             <details open>
               <summary class="issue">
-                <span class="icon">🔐</span>Secure Sign-In
+                <span class="icon">📗</span>Secure Sign-In
               </summary>
               <ul>
                 <!-- Add specific tasks for Secure Sign-In -->
@@ -123,7 +125,7 @@ The basic process contains three work item types:
     <li>
       <details open>
         <summary class="epic">
-          <span class="icon">☁️</span>Cloud Migration
+          <span class="icon">☁👑</span>Cloud Migration
         </summary>
         <ul>
           <!-- Add specific tasks for Cloud Migration -->
@@ -133,7 +135,7 @@ The basic process contains three work item types:
     <li>
       <details open>
         <summary class="epic">
-          <span class="icon">🔄</span>CICD Implementation
+          <span class="icon">👑</span>CICD Implementation
         </summary>
         <ul>
           <!-- Add specific tasks for CICD Implementation -->
