@@ -28,42 +28,7 @@ The basic process contains three work item types:
 
 ![Basic Process](https://learn.microsoft.com/en-us/azure/devops/boards/get-started/media/about-boards/hierarchy-2.png?view=azure-devops)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Project Tasks</title>
-  <style>
-    h1 {
-      font-size: 1.5em;
-      margin-bottom: 10px;
-    }
 
-    .epic, .issue, .task {
-      margin-left: 10px;
-      display: flex;
-      align-items: center;
-    }
-
-    .epic {
-      color: #3498db;
-    }
-
-    .issue {
-      color: #2ecc71;
-    }
-
-    .task {
-      color: #e67e22;
-    }
-
-    .icon {
-      margin-right: 5px;
-    }
-  </style>
-</head>
-<body>
 
 <h1>Project Tasks</h1>
 
@@ -83,7 +48,7 @@ The basic process contains three work item types:
             </ul>
           </li>
           <li class="issue">
-            <span class="icon">ℹ📗</span>About Us Page
+            <span class="icon">📗</span>About Us Page
             <ul>
               <!-- Add specific tasks for About Us Page -->
             </ul>
@@ -111,9 +76,6 @@ The basic process contains three work item types:
     </ul>
   </li>
 </ul>
-
-</body>
-</html>
 
 
 
