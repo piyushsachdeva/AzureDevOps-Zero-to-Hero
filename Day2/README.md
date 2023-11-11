@@ -28,6 +28,93 @@ The basic process contains three work item types:
 
 ![Basic Process](https://learn.microsoft.com/en-us/azure/devops/boards/get-started/media/about-boards/hierarchy-2.png?view=azure-devops)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Tasks</title>
+  <style>
+    details {
+      margin-bottom: 10px;
+    }
+
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    summary:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Project Tasks</h1>
+
+<details open>
+  <summary>Epics</summary>
+  <ul>
+    <li>
+      <details open>
+        <summary>Website Updates</summary>
+        <ul>
+          <li>
+            <details open>
+              <summary>Homepage</summary>
+              <ul>
+                <li>Designing a homepage header</li>
+                <li>Standardizing fonts</li>
+                <li>Fixing the homepage CSS to make it mobile responsive</li>
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details open>
+              <summary>About Us Page</summary>
+              <ul>
+                <!-- Add specific tasks for About Us Page -->
+              </ul>
+            </details>
+          </li>
+          <li>
+            <details open>
+              <summary>Secure Sign-In</summary>
+              <ul>
+                <!-- Add specific tasks for Secure Sign-In -->
+              </ul>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details open>
+        <summary>Cloud Migration</summary>
+        <ul>
+          <!-- Add specific tasks for Cloud Migration -->
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details open>
+        <summary>CICD Implementation</summary>
+        <ul>
+          <!-- Add specific tasks for CICD Implementation -->
+        </ul>
+      </details>
+    </li>
+  </ul>
+</details>
+
+<script>
+  // Add JavaScript here if you need to perform any additional actions.
+</script>
+
+</body>
+</html>
+
 
 ## Defining Sprints
 
