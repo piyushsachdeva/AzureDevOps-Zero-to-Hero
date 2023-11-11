@@ -48,7 +48,6 @@ The basic process contains three work item types:
               </summary>
               <ul>
                <li> <span class="icon">☑</span>Designing a homepage header </li>
-                <li class="task">Designing a homepage header</li>
                 <li> <span class="icon">☑</span>Standardizing fonts </li>
                  <li> <span class="icon">☑</span>Fixing the homepage CSS to make it mobile responsive </li>
               </ul>
