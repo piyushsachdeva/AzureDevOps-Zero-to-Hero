@@ -8,7 +8,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
-**Status**: Video Scheduled to be live on 13th Nov ✅
+**Status**: Video is live, check out 👉 [Day1](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day1) 👈 folder for notes and useful links ✅
 
 - What is Cloud Computing
 - IaaS VS PaaS VS SaaS
