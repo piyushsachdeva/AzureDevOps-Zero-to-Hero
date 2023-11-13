@@ -12,13 +12,18 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 - What is Cloud Computing
 - IaaS VS PaaS VS SaaS
-- What is DevOps and Why It Matters
+- What is a Shared Responsibility Model
+- What is a Traditional Build and Deployment workflow
+- What is a Waterfall model in SDLC
 - Problems with the traditional software development life cycle (SDLC)
-- What is Agile, and how it solves the above challenges
+- What is Agile, and how it solves the above challenges 
+- What is DevOps and Why It Matters
 - What is CI/CD
 - What is Azure DevOps and a quick walkthrough
 - Creating an Azure DevOps Organization
 - Creating an Azure DevOps Project
+- Azure DevOps Pricing
+- Azure DevOps hosting options : Azure DevOps Services VS Azure DevOps Server
 
 ### Day 2: Azure Boards and Agile Project Management 📊
 
