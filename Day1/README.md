@@ -20,7 +20,8 @@ You must purchase computing, storage, and hardware to run an application. Cloud 
 
 ## Traditional Build and Deployment workflow
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/568ab1d9-dd70-482f-bd39-620e1c24cc01)
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/51690599-927b-437e-b525-61e3fe4b03f1)
+
 
 ## What is the Waterfall model?
 
