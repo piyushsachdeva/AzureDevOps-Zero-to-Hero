@@ -1,7 +1,5 @@
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/1c4d81fb-6fe8-4af2-824d-af76f01bafe2)# WORK IN PROGRESS - Please do not peak lol
-
 ## What is Cloud Computing?
-In simple words, to run an application, you need to purchase computing, storage, and hardware. Cloud computing minimizes these upfront expenses, and you can rent/lease hardware from cloud providers such as AWS/Azure/GCP.
+To run an application, you need to purchase computing, storage, and hardware. Cloud computing minimizes these upfront expenses, and you can rent/lease hardware from cloud providers such as AWS/Azure/GCP.
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d3e3c678-760f-4b3f-bc31-2817634d1de6)
 
