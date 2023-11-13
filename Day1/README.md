@@ -1,3 +1,8 @@
+# Checkout the below video for Day1
+
+[![Course Introduction](https://img.youtube.com/vi/ME06qJ2VeXA/sddefault.jpg)](https://youtu.be/ME06qJ2VeXA)
+
+
 ## What is Cloud Computing?
 You must purchase computing, storage, and hardware to run an application. Cloud computing minimizes these upfront expenses, and you can rent/lease hardware from cloud providers such as AWS/Azure/GCP.
 
