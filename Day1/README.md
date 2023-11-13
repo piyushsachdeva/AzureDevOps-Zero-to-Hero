@@ -4,9 +4,11 @@ You must purchase computing, storage, and hardware to run an application. Cloud 
 <img src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d3e3c678-760f-4b3f-bc31-2817634d1de6" alt="image" width=300 height=300 >
 
 
+
 **Cloud Computing aims at**
-(![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/05b2bcf2-d8af-4814-a8e0-e2383548a0b0)
-)
+
+
+<img src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/05b2bcf2-d8af-4814-a8e0-e2383548a0b0" alt="image" width=300 height=300 >
 
 ## IaaS VS PaaS VS SaaS
 
