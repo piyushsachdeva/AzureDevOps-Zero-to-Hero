@@ -1,11 +1,42 @@
-# WORK IN PROGRESS - Please do not peak lol
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/1c4d81fb-6fe8-4af2-824d-af76f01bafe2)# WORK IN PROGRESS - Please do not peak lol
 
 ## What is Cloud Computing?
+In simple words, to run an application, you need to purchase computing, storage, and hardware. Cloud computing minimizes these upfront expenses, and you can rent/lease hardware from cloud providers such as AWS/Azure/GCP.
 
-## What is the Waterfall model and traditional software development lifecycle?
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d3e3c678-760f-4b3f-bc31-2817634d1de6)
+
+
+**Cloud Computing aims at**
+(![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/05b2bcf2-d8af-4814-a8e0-e2383548a0b0)
+)
+
+## IaaS VS PaaS VS SaaS
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/19b803a8-45be-4f30-b32f-aa5be6c601d3)
+
+## Shared Responsibility Model in Azure
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/fd327641-f690-4d98-963c-8afa823d869a)
+
+## Traditional Build and Deployment workflow
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/568ab1d9-dd70-482f-bd39-620e1c24cc01)
+
+## What is the Waterfall model?
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/6a6bd063-8586-4911-a9a2-76be3435a659)
 
 ## What were the challenges with the waterfall model?
 
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/24157bd9-191a-409a-80fb-7b0474531500)
+
+## What is Agile
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/45cbf236-2254-4332-b1a7-3370e5177a77)
+
+## What is DevOps, and why does it matter?
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/5e199e8e-15c1-4ba6-8d75-dcf8dd4ce706)
 
 
 ## What is Azure DevOps 🤷‍♂️
