@@ -1,4 +1,8 @@
-# Day2 Azure Boards and Agile Project Management 📊 - Work in progress
+# Day2 Azure Boards and Agile Project Management 📊
+
+# Checkout the video below for Day2
+
+[![Azure DevOps Boards](https://img.youtube.com/vi/vjqhGJMFhFI/sddefault.jpg)](https://youtu.be/vjqhGJMFhFI)
 
 ## Azure DevOps Demo Generator
 **Use these steps to load dummy data into your Azure DevOps project, we will use this data in the demo.**
