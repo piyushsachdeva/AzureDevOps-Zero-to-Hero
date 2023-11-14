@@ -1,6 +1,23 @@
 # Day2 Azure Boards and Agile Project Management 📊 - Work in progress
 
 ## Azure DevOps Demo Generator
+**Use these steps to load dummy data into your Azure DevOps project, we will use this data in the demo.**
+
+1. Navigate to https://azuredevopsdemogenerator.azurewebsites.net. This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab. 
+
+2. Sign in using the Microsoft account associated with your Azure DevOps subscription.
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/33feacfa-47bb-4861-b87d-d026e1eb36ee)
+
+3. Accept the permission requests for accessing your subscription.
+
+4. Select the PartsUnlimited template and click Select Template.
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/9bb9e1bd-cee1-4f18-ac5d-36163b36552e)
+
+5. Click Create Project and wait for the process to complete.
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/b27fc6a5-0c6c-4cde-8ad9-8d11d935d7f5)
 
 
 ## Azure Boards Overview 
