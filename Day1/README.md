@@ -1,4 +1,4 @@
-# Checkout the below video for Day1
+# Checkout the video below for Day1
 
 [![Course Introduction](https://img.youtube.com/vi/ME06qJ2VeXA/sddefault.jpg)](https://youtu.be/ME06qJ2VeXA)
 
