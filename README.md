@@ -26,14 +26,21 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure DevOps hosting options : Azure DevOps Services VS Azure DevOps Server
 
 ### Day 2: Azure Boards and Agile Project Management 📊
+**Status**: Video is live, check out 👉 [Day2](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day2) 👈 folder for notes and useful links ✅
 
-- Azure DevOps Demo Generator 
-- Azure Boards Overview
-- Defining Teams and Work Items
-- Defining Sprints
-- Defining Features and Epics
-- Using Boards with GitHub
-- Dashboards in Azure Boards
+- What are Azure DevOps Boards 
+- What are Azure board processes, agile, scrum, basic, and CMMI
+- Managing work items in Azure boards
+- Azure board implementation using basic process
+- Working with teams, areas, and iterations
+- Filters in backlogs and boards
+- Azure board implementation using the scrum process
+- Sprint planning and capacity planning
+- Product backlog and taskboard
+- Customizing Kanban boards
+- Customizing dashboards
+- Work item query
+- Customizing team process
 
 ### Day 3: Mastering Git and Source Control in Azure DevOps 🌿
 
