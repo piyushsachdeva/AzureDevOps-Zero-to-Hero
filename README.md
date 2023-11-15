@@ -47,14 +47,14 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Introduction to Source Control and Git
 - Git vs TFVC
 - Configure Visual Code
-- Git Flows and Branching Strategies
+- Git Flows and Branching Strategies (To be included in the later videos)
 - Cloning the repo
 - Commit changes
 - Reviewing history
 - Working with branches
 - Tagging a release
 - Managing repository
-- Sample Application: Static Website Hosting
+- Sample application code
 
 ### Day 4: Build and Release Pipelines 🚀
 
