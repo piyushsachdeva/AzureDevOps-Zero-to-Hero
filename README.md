@@ -43,6 +43,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Customizing team process
 
 ### Day 3: Mastering Git and Source Control in Azure DevOps 🌿
+**Status**: Video scheduled ✅
 
 - Introduction to Source Control and Azure Repos
 - Git vs TFVC
