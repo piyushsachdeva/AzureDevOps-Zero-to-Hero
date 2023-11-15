@@ -44,16 +44,16 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 ### Day 3: Mastering Git and Source Control in Azure DevOps 🌿
 
-- Introduction to Source Control and Git
+- Introduction to Source Control and Azure Repos
 - Git vs TFVC
 - Configure Visual Code
-- Git Flows and Branching Strategies (To be included in the later videos)
 - Cloning the repo
 - Commit changes
 - Reviewing history
 - Working with branches
 - Tagging a release
 - Managing repository
+- Managing Pull requests
 - Sample application code
 
 ### Day 4: Build and Release Pipelines 🚀
