@@ -1,4 +1,4 @@
-# Azure Repos ( Work in Progress)
+# Day3 - Azure Repos
 
 # Checkout the video below for Day3
 
