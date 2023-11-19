@@ -62,6 +62,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 #### Note: For the demo, we will be using the Youtube Clone website on Azure Virtual Machine
 - Build Pipeline vs. Release Pipeline
+- Provision the Azure VM to host the application
 - Creating Build Pipelines using the classic editor
 - Creating build pipeline using YAML
 - YAML pipeline structure, the difference between jobs, stages, steps, and tasks
