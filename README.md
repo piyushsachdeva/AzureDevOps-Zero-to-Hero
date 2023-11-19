@@ -58,12 +58,18 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Sample application code
 
 ### Day 4: Build and Release Pipelines 🚀
+**Status**: Recording in progress
 
+#### Note: For the demo, we will be using the Youtube Clone website on Azure Virtual Machine
 - Build Pipeline vs. Release Pipeline
-- Creating Build Pipelines
-- variables, triggers, agents
+- Creating Build Pipelines using the classic editor
+- Creating build pipeline using YAML
+- YAML pipeline structure, the difference between jobs, stages, steps, and tasks
+- variables, triggers, Build properties, agents
+- Publishing build artifacts
 - Automating Deployment with Release Pipelines
-- Sample Application: Webapp with blue-green deployment using slots
+- Deployment gates such as Query Work Items and Approvals before the prod deployment
+
 
 ### Day 5: Azure Test Plans and Testing 🧪
 
@@ -77,7 +83,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 - Creating a Build Pipeline for a Basic Web App
 - Configuring Build Tasks (Build Agents, Build Steps)
-- Deploying the Application to Azure
+- Deploying the Application to the Azure Web App
 - Sample Application: 3-Tier Application Implementation
 
 ### Day 7: Basic Project Artifacts with Azure Artifacts 📦
