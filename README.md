@@ -80,7 +80,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Managing Test Plans, Suites and Cases
 - Types of Tests (e.g., manual, automated, load)
 - Authoring, Running, and Analyzing Manual Tests
-- Running a URL Load Test
+- 
 
 ### Day 6: Building and Deploying a Simple Web Application 🌐
 
