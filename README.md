@@ -73,12 +73,14 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day 5: Azure Test Plans and Testing 🧪
+**Status**: Recording in progress
 
+#### Note: We will be using a sample website to implement the below steps
 - Azure Test Plan Overview
+- Managing Test Plans, Suites and Cases
 - Types of Tests (e.g., manual, automated, load)
-- Creating a Manual Test Plan
+- Authoring, Running, and Analyzing Manual Tests
 - Running a URL Load Test
-- Sample Application: (To be decided)
 
 ### Day 6: Building and Deploying a Simple Web Application 🌐
 
