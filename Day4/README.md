@@ -21,6 +21,11 @@
 
 - Implement the build pipeline using the classic editor
 
+- Understand the use of service connection and service principal
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/9c20aa32-3932-4d1c-b3a9-0abdcd93f5c7)
+
+
 **Note: You must set the app settings WEBSITE_DYNAMIC_CACHE=0 and WEBSITE_LOCAL_CACHE_OPTION=Never to disable all file caching**
 
 
