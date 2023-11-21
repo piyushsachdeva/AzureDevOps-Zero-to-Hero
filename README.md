@@ -57,8 +57,8 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Managing Pull requests
 - Sample application code
 
-### Day 4: Build and Release Pipelines 🚀
-**Status**: Recording in progress
+### Day 4: Build Pipeline 🚀
+**Status**: Editing in progress
 
 #### Note: For the demo, we will be using the YouTube Clone website 
 
@@ -67,6 +67,11 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Creating build pipeline using YAML
 - YAML pipeline structure, the difference between jobs, stages, steps, and tasks
 - variables, triggers, Build properties, agents
+
+
+### Day5: Release Pipeline
+#### Note: this is a continuation of the previous video.
+
 - Publishing build artifacts
 - Automating Deployment with Release Pipelines
 - Continuous delivery using deployment slots to enable **blue-green deployment**
