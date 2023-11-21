@@ -66,6 +66,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Creating Build Pipelines using the classic editor
 - Creating build pipeline using YAML
 - YAML pipeline structure, the difference between jobs, stages, steps, and tasks
+- Using the build pipeline as a CICD pipeline
 - variables, triggers, Build properties, agents
 
 
