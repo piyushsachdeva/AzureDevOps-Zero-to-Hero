@@ -58,7 +58,8 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Sample application code
 
 ### Day 4: Build Pipeline 🚀
-**Status**: Editing in progress
+**Status**: Video is live, check out 👉 [Day4](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day4) 👈 folder for notes and useful links ✅
+
 
 #### Note: For the demo, we will be using the YouTube Clone website 
 
@@ -66,14 +67,14 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Creating Build Pipelines using the classic editor
 - Creating build pipeline using YAML
 - YAML pipeline structure, the difference between jobs, stages, steps, and tasks
-- Using the build pipeline as a CICD pipeline
+- Creating a multi-stage CICD pipeline
 - variables, triggers, Build properties, agents
+- Publishing and Download Build Artifacts
 
 
 ### Day5: Release Pipeline
 #### Note: this is a continuation of the previous video.
 
-- Publishing build artifacts
 - Automating Deployment with Release Pipelines
 - Continuous delivery using deployment slots to enable **blue-green deployment**
 - Deployment gates such as Query Work Items and Approvals before the prod deployment
