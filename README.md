@@ -60,15 +60,16 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 ### Day 4: Build and Release Pipelines 🚀
 **Status**: Recording in progress
 
-#### Note: For the demo, we will be using the Youtube Clone website on Azure Virtual Machine
-- Build Pipeline vs. Release Pipeline
-- Provision the Azure VM to host the application
+#### Note: For the demo, we will be using the YouTube Clone website 
+
+- Provision Azure App Service to host the website.
 - Creating Build Pipelines using the classic editor
 - Creating build pipeline using YAML
 - YAML pipeline structure, the difference between jobs, stages, steps, and tasks
 - variables, triggers, Build properties, agents
 - Publishing build artifacts
 - Automating Deployment with Release Pipelines
+- Continuous delivery using deployment slots to enable **blue-green deployment**
 - Deployment gates such as Query Work Items and Approvals before the prod deployment
 
 
