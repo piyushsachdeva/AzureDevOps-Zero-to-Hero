@@ -79,9 +79,9 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 - Automating Deployment with a multi-stage Release Pipelines
 - Continuous Deployment Triggers
-- Continuous delivery using deployment slots to enable **blue-green deployment**
+- Continuous delivery using deployment slots to enable **Blue-Green deployment**
 - Deployment gates such as Query Work Items and Approvals before the prod deployment
-- Pull request to test the entire CICD process with the Build and Release pipeline
+- Update the code to test the entire CICD process with the Build and Release pipeline
 
 
 ### Day 5: Azure Test Plans and Testing 🧪
