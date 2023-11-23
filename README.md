@@ -26,50 +26,79 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure DevOps hosting options : Azure DevOps Services VS Azure DevOps Server
 
 ### Day 2: Azure Boards and Agile Project Management 📊
+**Status**: Video is live, check out 👉 [Day2](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day2) 👈 folder for notes and useful links ✅
 
-- Azure DevOps Demo Generator 
-- Azure Boards Overview
-- Defining Teams and Work Items
-- Defining Sprints
-- Defining Features and Epics
-- Using Boards with GitHub
-- Dashboards in Azure Boards
+- What are Azure DevOps Boards 
+- What are Azure board processes, agile, scrum, basic, and CMMI
+- Managing work items in Azure boards
+- Azure board implementation using basic process
+- Working with teams, areas, and iterations
+- Filters in backlogs and boards
+- Azure board implementation using the scrum process
+- Sprint planning and capacity planning
+- Product backlog and taskboard
+- Customizing Kanban boards
+- Customizing dashboards
+- Work item query
+- Customizing team process
 
 ### Day 3: Mastering Git and Source Control in Azure DevOps 🌿
+**Status**: Video is live, check out 👉 [Day3](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day3) 👈 folder for notes and useful links ✅
 
-- Introduction to Source Control and Git
+- Introduction to Source Control and Azure Repos
 - Git vs TFVC
 - Configure Visual Code
-- Git Flows and Branching Strategies
 - Cloning the repo
 - Commit changes
 - Reviewing history
 - Working with branches
 - Tagging a release
 - Managing repository
-- Sample Application: Static Website Hosting
+- Managing Pull requests
+- Sample application code
 
-### Day 4: Build and Release Pipelines 🚀
+### Day 4: Build Pipeline 🚀
+**Status**: Video is live, check out 👉 [Day4](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day4) 👈 folder for notes and useful links ✅
 
-- Build Pipeline vs. Release Pipeline
-- Creating Build Pipelines
-- variables, triggers, agents
-- Automating Deployment with Release Pipelines
-- Sample Application: Webapp with blue-green deployment using slots
+
+#### Note: For the demo, we will be using the YouTube Clone website 
+
+- Provision Azure App Service to host the website.
+- Creating Build Pipelines using the classic editor
+- Creating build pipeline using YAML
+- YAML pipeline structure, the difference between jobs, stages, steps, and tasks
+- Creating a multi-stage CICD pipeline
+- variables, triggers, Build properties, agents
+- Publishing and Download Build Artifacts
+
+
+### Day5: 🚀 Continuous Delivery with Azure DevOps Release Pipeline
+**Status**: Recording in Progress
+
+#### Note: this is a continuation of the previous video.
+
+- Automating Deployment with a multi-stage Release Pipelines
+- Continuous Deployment Triggers
+- Continuous delivery using deployment slots to enable **blue-green deployment**
+- Deployment gates such as Query Work Items and Approvals before the prod deployment
+- Pull request to test the entire CICD process with the Build and Release pipeline
+
 
 ### Day 5: Azure Test Plans and Testing 🧪
+**Status**: Recording in progress
 
+#### Note: We will be using a sample website to implement the below steps
 - Azure Test Plan Overview
+- Managing Test Plans, Suites and Cases
 - Types of Tests (e.g., manual, automated, load)
-- Creating a Manual Test Plan
-- Running a URL Load Test
-- Sample Application: (To be decided)
+- Authoring, Running, and Analyzing Manual Tests
+- 
 
 ### Day 6: Building and Deploying a Simple Web Application 🌐
 
 - Creating a Build Pipeline for a Basic Web App
 - Configuring Build Tasks (Build Agents, Build Steps)
-- Deploying the Application to Azure
+- Deploying the Application to the Azure Web App
 - Sample Application: 3-Tier Application Implementation
 
 ### Day 7: Basic Project Artifacts with Azure Artifacts 📦
