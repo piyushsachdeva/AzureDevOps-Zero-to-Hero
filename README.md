@@ -72,12 +72,16 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Publishing and Download Build Artifacts
 
 
-### Day5: Release Pipeline
+### Day5: 🚀 Continuous Delivery with Azure DevOps Release Pipeline
+**Status**: Recording in Progress
+
 #### Note: this is a continuation of the previous video.
 
-- Automating Deployment with Release Pipelines
+- Automating Deployment with a multi-stage Release Pipelines
+- Continuous Deployment Triggers
 - Continuous delivery using deployment slots to enable **blue-green deployment**
 - Deployment gates such as Query Work Items and Approvals before the prod deployment
+- Pull request to test the entire CICD process with the Build and Release pipeline
 
 
 ### Day 5: Azure Test Plans and Testing 🧪
