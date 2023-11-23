@@ -73,7 +73,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day5: 🚀 Continuous Delivery with Azure DevOps Release Pipeline
-**Status**: Recording in Progress
+**Status**: Video is live, check out 👉 [Day5](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day5) 👈 folder for notes and useful links ✅
 
 #### Note: this is a continuation of the previous video.
 
@@ -84,7 +84,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Update the code to test the entire CICD process with the Build and Release pipeline
 
 
-### Day 5: Azure Test Plans and Testing 🧪
+### Day 6: Azure Test Plans and Testing 🧪
 **Status**: Recording in progress
 
 #### Note: We will be using a sample website to implement the below steps
@@ -93,13 +93,6 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Types of Tests (e.g., manual, automated, load)
 - Authoring, Running, and Analyzing Manual Tests
 - 
-
-### Day 6: Building and Deploying a Simple Web Application 🌐
-
-- Creating a Build Pipeline for a Basic Web App
-- Configuring Build Tasks (Build Agents, Build Steps)
-- Deploying the Application to the Azure Web App
-- Sample Application: 3-Tier Application Implementation
 
 ### Day 7: Basic Project Artifacts with Azure Artifacts 📦
 
