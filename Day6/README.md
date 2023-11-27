@@ -1,5 +1,10 @@
 # Azure Test Plans :microscope:
 
+## Check out the video below for Day6 👇
+
+[![Day6/16 - Azure Test Plans](https://img.youtube.com/vi/xjRfWldHaps/sddefault.jpg)](https://youtu.be/xjRfWldHaps)
+
+
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d14372b3-f815-4e94-a233-3815b8877f5d)
 
 
