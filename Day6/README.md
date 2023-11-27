@@ -5,7 +5,8 @@
 [![Day6/16 - Azure Test Plans](https://img.youtube.com/vi/xjRfWldHaps/sddefault.jpg)](https://youtu.be/xjRfWldHaps)
 
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d14372b3-f815-4e94-a233-3815b8877f5d)
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/9f52ac37-a943-4a50-8426-0cccf07f5758)
+
 
 
 ## Manual and Exploratory Testing :pencil2:
