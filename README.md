@@ -85,7 +85,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day 6: Azure Test Plans and Testing 🧪
-**Status**: Recording in progress
+**Status**: Video is live, check out 👉 [Day6](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day6) 👈 folder for notes and useful links ✅
 
 #### Note: We will be using the Youtube Clone website to implement the below steps
 - Azure Test Plan Overview
@@ -96,6 +96,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure Test and Feedback extension
 
 ### Day 7: Basic Project Artifacts with Azure Artifacts 📦
+**Status**: Recording in Progress
 
 - Overview of Azure Artifacts
 - Creating and Managing Simple Packages
