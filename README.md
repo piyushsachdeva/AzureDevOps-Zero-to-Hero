@@ -87,12 +87,13 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 ### Day 6: Azure Test Plans and Testing 🧪
 **Status**: Recording in progress
 
-#### Note: We will be using a sample website to implement the below steps
+#### Note: We will be using the Youtube Clone website to implement the below steps
 - Azure Test Plan Overview
+- Features of Azure test plan
 - Managing Test Plans, Suites and Cases
-- Types of Tests (e.g., manual, automated, load)
+- Subscribe to the test plan free trial
 - Authoring, Running, and Analyzing Manual Tests
-- 
+- Azure Test and Feedback extension
 
 ### Day 7: Basic Project Artifacts with Azure Artifacts 📦
 
