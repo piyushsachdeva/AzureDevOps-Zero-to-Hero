@@ -98,11 +98,16 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 ### Day 7: Basic Project Artifacts with Azure Artifacts 📦
 **Status**: Recording in Progress
 
+#### Note: We will use a to-do application with a frontend written in NodeJS and a Database as MongoDB hosted on Cosmos DB.
+
 - Overview of Azure Artifacts
-- Creating and Managing Simple Packages
-- Promoting the package
-- Basic Dependency Management
-- Sample Application: To be decided
+- Create the Azure DevOps project and check out the application code
+- Set up the infra using Azure Web App + MongoDB Database
+- Create Azure Artifacts feed to host the packages
+- Create the CI pipeline that builds the package and pushes it to the feed
+- Create the CD pipeline that consumes the package
+- Promote the package
+- Upstream packages in Azure Artifacts
 
 ### Day 8: Azure DevOps wiki and creating Architectural diagrams
 - Overview of wiki
