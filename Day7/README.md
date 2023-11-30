@@ -1,5 +1,8 @@
-# Day 7 - Azure Artifacts
+# Day 7 - Azure Artifacts 👨‍💻
 
+## Check out the video below for Day7 👇
+
+[![Day6/16 - Azure Test Plans](https://img.youtube.com/vi/krK4HTmaCJc/sddefault.jpg)](https://youtu.be/krK4HTmaCJc)
 
 ## Setup your Azure repos with the same application code
 
@@ -7,6 +10,11 @@ You can import the below repo to clone the Nike landing page sample website code
 
 https://github.com/piyushsachdeva/nike_landing_page.git
 
+**Note:** You must set the app settings as below to disable all file caching:
+
+*  WEBSITE_DYNAMIC_CACHE=0
+*  WEBSITE_LOCAL_CACHE_OPTION=Never
+  
 
 ## Architectural diagram used in the video
 
