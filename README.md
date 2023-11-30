@@ -96,7 +96,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure Test and Feedback extension
 
 ### Day 7: Basic Project Artifacts with Azure Artifacts 📦
-**Status**: Recording in Progress
+**Status**: Video is live, check out 👉 [Day7](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day7) 👈 folder for notes and useful links ✅
 
 #### Note: In this video, we will use a ✔ Nike Landing page as a sample application for CICD using Azure Artifacts
 
