@@ -98,15 +98,15 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 ### Day 7: Basic Project Artifacts with Azure Artifacts 📦
 **Status**: Recording in Progress
 
-#### Note: We will use a to-do application with a frontend written in NodeJS and a Database as MongoDB hosted on Cosmos DB.
+#### Note: In this video, we will use a ✔ Nike Landing page as a sample application for CICD using Azure Artifacts
 
 - Overview of Azure Artifacts
 - Create the Azure DevOps project and check out the application code
-- Set up the infra using Azure Web App + MongoDB Database
+- Set up the infra using Azure Web App
 - Create Azure Artifacts feed to host the packages
 - Create the CI pipeline that builds the package and pushes it to the feed
 - Create the CD pipeline that consumes the package
-- Promote the package
+- Promote the package to trigger the release pipeline
 - Upstream packages in Azure Artifacts
 
 ### Day 8: Azure DevOps wiki and creating Architectural diagrams
