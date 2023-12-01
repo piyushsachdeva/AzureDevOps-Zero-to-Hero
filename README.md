@@ -109,7 +109,20 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Promote the package to trigger the release pipeline
 - Upstream packages in Azure Artifacts
 
-### Day 8: Azure DevOps wiki and creating Architectural diagrams
+### Day 8: Infrastructure as Code (IaC) with Terraform and Azure DevOps🚀
+
+**Status**: Recording in progress 💪
+
+#### Note: For this demo, we will be provisioning an Azure Virtual Machine
+
+- Introduction to IaC and Tools
+- Various Terraform commands and workflow
+- Creating Terraform configuration files
+- Setting up terraform backend with Azure storage
+- Executing Terraform commands using CLI
+- Automating Infrastructure Provisioning using Terraform and Azure DevOps
+
+### Day 9: Azure DevOps wiki and creating Architectural diagrams
 - Overview of wiki
 - Introduction to MarkDown
 - How we can use Azure DevOps wiki to collaborate on a project
@@ -139,13 +152,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Managing Pipeline Variables and Environments
 - Sample application: To be decided
 
-### Day 12: Infrastructure as Code (IaC) and Azure DevOps 📟
 
-- Introduction to IaC and Tools
-- Creating Infrastructure Definitions
-- Automating Infrastructure Provisioning using ARM template
-- Automating Infrastructure Provisioning using Terraform
-- sample app: To be decided
 
 ### Day 13: Managing Containers and Microservices 🐋
 
