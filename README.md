@@ -120,7 +120,10 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Creating Terraform configuration files
 - Setting up terraform backend with Azure storage
 - Executing Terraform commands using CLI
-- Automating Infrastructure Provisioning using Terraform and Azure DevOps
+- Azure DevOps CI Pipeline to init, plan, and archive the plan file
+- Azure DevOps CD pipeline to apply the changes
+
+
 
 ### Day 9: Azure DevOps wiki and creating Architectural diagrams
 - Overview of wiki
