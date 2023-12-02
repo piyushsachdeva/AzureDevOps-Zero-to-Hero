@@ -115,6 +115,9 @@ stages:
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/a492d66d-ed3e-468c-b68e-7d06891a8e92)
 
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/7a0c53ea-0b7c-4098-b264-c66bb778fddf)
+
 ### Deployment stage
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/66fe7d5d-b665-496a-b43b-e85a88f7271d)
