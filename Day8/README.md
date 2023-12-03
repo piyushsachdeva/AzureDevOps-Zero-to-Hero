@@ -1,5 +1,8 @@
+# Day 8/16 - Azure DevOps with Terraform 🏗
 
-# Work in progress
+## Check out the video below for Day8 👇
+
+[![Day8/16 - Azure DevOps with Terraform](https://img.youtube.com/vi/wq_sn9ey4KM/sddefault.jpg)](https://youtu.be/wq_sn9ey4KM)
 
 ## How Terraform works
 
@@ -27,7 +30,7 @@ https://github.com/piyushsachdeva/Terraform-AzureDevOps-Sample.git
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/a8395bd1-ee47-4b41-ba73-2f4bca714fd2)
 
 
-### You can use the below Azure cli commands to set the terraform remote backend, or you can do it via portal
+### You can use the below Azure cli commands to set the terraform remote backend, or you can do it via the portal
 
 ``` shell
 #!/bin/bash
