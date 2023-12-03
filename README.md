@@ -111,9 +111,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 ### Day 8: Infrastructure as Code (IaC) with Terraform and Azure DevOps🚀
 
-**Status**: Recording in progress 💪
-
-#### Note: For this demo, we will be provisioning an Azure Virtual Machine
+**Status**: Video is live, check out 👉 [Day8](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day8) 👈 folder for notes and useful links ✅
 
 - Introduction to IaC and Tools
 - Various Terraform commands and workflow
