@@ -130,7 +130,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Importance of documentation
 - How to create effective architectural diagrams
 
-### Day 9: Security and Permissions in Azure DevOps 🔐
+### Day 10: Security and Permissions in Azure DevOps 🔐
 
 - Managing Access and Security Settings
 - Implementing Basic Security Practices
@@ -138,7 +138,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Include static code analysis and vulnerability scanning
 - Sample Application: DevSecOps Pipeline for an Online Banking Application
 
-### Day 10: Serverless app CICD 🐳
+### Day 11: Serverless app CICD 🐳
 
 - Understanding Containers and Docker
 - Containerizing Applications
@@ -146,7 +146,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Build and release pipeline for building and deploying the code to Azure Functions
 - Sample Application: Serverless QR Code Generator
 
-### Day 11: Advanced CI/CD Pipelines and Deployment Strategies 🚢
+### Day 12: Advanced CI/CD Pipelines and Deployment Strategies 🚢
 
 - Building Multi-Stage CI/CD Pipelines
 - Implementing Deployment Strategies (Blue-Green, Canary)
