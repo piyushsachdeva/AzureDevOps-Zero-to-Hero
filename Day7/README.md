@@ -2,7 +2,7 @@
 
 ## Check out the video below for Day7 👇
 
-[![Day6/16 - Azure Test Plans](https://img.youtube.com/vi/krK4HTmaCJc/sddefault.jpg)](https://youtu.be/krK4HTmaCJc)
+[![Day7/16 - Azure Artifacts ](https://img.youtube.com/vi/wq_sn9ey4KM/sddefault.jpg)](https://youtu.be/wq_sn9ey4KM)
 
 ## Setup your Azure repos with the same application code
 
