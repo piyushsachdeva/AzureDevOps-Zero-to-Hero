@@ -122,15 +122,39 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure DevOps CD pipeline to apply the changes
 
 
+### Day9: Self Hosted agents on Azure Virtual machine scale sets
 
-### Day 9: Azure DevOps wiki and creating Architectural diagrams
-- Overview of wiki
-- Introduction to MarkDown
-- How we can use Azure DevOps wiki to collaborate on a project
-- Importance of documentation
-- How to create effective architectural diagrams
+- What is a Virtual machine scale set
+- Microsoft-hosted vs. self-hosted agents
+- Use case of self-hosted agents
+- Ways to setup self-hosted agents: VM, VMSS, container
+- Set up a self-hosted agent using VMSS
+- Register the agent on an agent pool
+- Install custom utilities on the agent
+- Use the self-hosted agent on a pipeline
+- Comparison between self-hosted and Microsoft-hosted agents
+- work folder walkthrough on agent
 
-### Day 10: Security and Permissions in Azure DevOps 🔐
+### Day 10 Managing Containers and Microservices 🐋
+
+- What is a container
+- Understanding Containers and Docker
+- How to containerize an application
+- What are Azure container instances(ACI)
+- Difference between Monolithic and Microservice architecture
+- Working with Containers in Azure DevOps CICD Pipeline
+- Sample application: Azure DevOps Pipeline for deploying a sample application to ACI (TBD)
+
+
+### Day 11  Kubernetes 🐋
+
+- Working with Containers in DevOps
+- Orchestrating Microservices with Kubernetes
+- Deploying Microservices
+- Overview of GitOps
+- Sample application: GitOps Pipeline for deploying a sample application(TBD)
+
+### Day 12  Security and Permissions in Azure DevOps 🔐
 
 - Managing Access and Security Settings
 - Implementing Basic Security Practices
@@ -138,15 +162,26 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Include static code analysis and vulnerability scanning
 - Sample Application: DevSecOps Pipeline for an Online Banking Application
 
-### Day 11: Serverless app CICD 🐳
+### Day 13: Serverless app CICD 🐳
 
-- Understanding Containers and Docker
-- Containerizing Applications
 - Introduction to Azure functions
 - Build and release pipeline for building and deploying the code to Azure Functions
 - Sample Application: Serverless QR Code Generator
 
-### Day 12: Advanced CI/CD Pipelines and Deployment Strategies 🚢
+### Day 14: Azure DevOps wiki 
+
+- Overview of wiki
+- Introduction to MarkDown
+- How we can use Azure DevOps wiki to collaborate on a project
+
+
+### Day 15: Creating Architectural diagrams
+
+- Importance of documentation
+- How to create effective architectural diagrams using multiple tools
+- How to create animated architectural diagrams for blogs/social media
+
+### Day 16: Advanced CI/CD Pipelines and Deployment Strategies 🚢
 
 - Building Multi-Stage CI/CD Pipelines
 - Implementing Deployment Strategies (Blue-Green, Canary)
@@ -155,34 +190,8 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 
-### Day 13: Managing Containers and Microservices 🐋
-
-- Working with Containers in DevOps
-- Orchestrating Microservices with Kubernetes
-- Deploying Microservices
-- Overview of GitOps
-- Sample application: GitOps Pipeline for deploying a sample application(TBD)
-
-### Day 14: Building a Complex Real-World Project 🌐
-
-- Starting a Complex Project from Scratch
-- Iterative Development and CI/CD Integration
-- Integrating Best Practices
-
-### Day 15: Showcasing Your Knowledge and Preparing for the Future 🌟
-
-- Incorporating What You've Learned into Real-World Scenarios
-- Setting up your Github Profile, LinkedIn profile, and resume to include the projects
-- Preparing for Interviews, Networking, and Continuous Learning
-
-### Day16: Bonus Lecture: How to debug real-time issues with Azure DevOps
-- Lesson learned
-- How to start debugging your issues and ask for help wherever you are stuck
-- 10 real-time issues that we have faced during the playlist implementation and how we fixed them
-
-
 ### Contributions are welcome:
-You can raise the pull request to contribute to the course material, do not forget to star the repository.
+You can just raise the pull request to contribute to the course material; please remember to star the repository.
  
 ## 🔗 Join our community 👇  
 
