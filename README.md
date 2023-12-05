@@ -1,7 +1,7 @@
 # AzureDevOps-Zero-to-Hero with real-time projects
 
 Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into concepts, demos, and real-time projects to help you master Azure DevOps and bolster your DevOps skills.
-**This playlist will be published on my YouTube channel, and it is free for anyone to use and follow along.**
+**This playlist will be published on my YouTube channel and is free for anyone to use and follow.**
 
 ### Day 0: Introduction to the Course 👇
 [![Course Introduction](https://img.youtube.com/vi/A_N5oHwwmTQ/sddefault.jpg)](https://youtu.be/A_N5oHwwmTQ)
@@ -141,14 +141,14 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Understanding Virtual machine V/s Containers.
 - Containerize a sample To-Do list web app written in React JS.
 - What are Azure container instances(ACI)
-- Working with Containers in Azure DevOps CICD Pipeline
+- Azure DevOps CICD Pipeline to deploy to ACI
 
 
 ### Day 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes.
 
 - Difference between Monolithic and Microservice architecture
 - 12 Factor App
-- What is Kubernetes
+- Basic Introduction of Kubernetes
 - Deploying Microservices
 - Overview of GitOps
 - Azure DevOps CICD Pipeline for a web app running on Kubernetes
