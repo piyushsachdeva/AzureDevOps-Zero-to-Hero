@@ -135,23 +135,23 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Comparison between self-hosted and Microsoft-hosted agents
 - work folder walkthrough on agent
 
-### Day 10 Managing Containers and Microservices 🐋
+### Day 10 Managing Containers with Azure DevOps
 
 - What is a container
-- Understanding Containers and Docker
-- How to containerize an application
+- Understanding Virtual machine V/s Containers.
+- Containerize a sample To-Do list web app written in React JS.
 - What are Azure container instances(ACI)
-- Difference between Monolithic and Microservice architecture
 - Working with Containers in Azure DevOps CICD Pipeline
-- Sample application: Azure DevOps Pipeline for deploying a sample application to ACI (TBD)
 
 
-### Day 11  Kubernetes 🐋
+### Day 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes.
 
-- Working with Containers in DevOps
-- Orchestrating Microservices with Kubernetes
+- Difference between Monolithic and Microservice architecture
+- 12 Factor App
+- What is Kubernetes
 - Deploying Microservices
 - Overview of GitOps
+- Azure DevOps CICD Pipeline for a web app running on Kubernetes
 - Sample application: GitOps Pipeline for deploying a sample application(TBD)
 
 ### Day 12  Security and Permissions in Azure DevOps 🔐
@@ -160,7 +160,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Implementing Basic Security Practices
 - Protecting Sensitive Data in Pipelines
 - Include static code analysis and vulnerability scanning
-- Sample Application: DevSecOps Pipeline for an Online Banking Application
+- Sample Application: DevSecOps Pipeline for an Online Banking Application - Bank of Anthos
 
 ### Day 13: Serverless app CICD 🐳
 
@@ -184,7 +184,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 ### Day 16: Advanced CI/CD Pipelines and Deployment Strategies 🚢
 
 - Building Multi-Stage CI/CD Pipelines
-- Implementing Deployment Strategies (Blue-Green, Canary)
+- Implementing Canary deployment using Azure DevOps
 - Managing Pipeline Variables and Environments
 - Sample application: To be decided
 
