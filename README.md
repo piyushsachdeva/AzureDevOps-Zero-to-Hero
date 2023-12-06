@@ -123,6 +123,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day9: Self Hosted agents on Azure Virtual machine scale sets
+Status: Editing in progress
 
 - Microsoft-hosted vs. self-hosted agents
 - Use case of self-hosted agents
@@ -136,7 +137,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - work folder walkthrough on agent
 
 ### Day 10 Managing Containers with Azure DevOps
-
+Status: Recording in progress
 - What is a container
 - Understanding Virtual machine V/s Containers.
 - Containerize a sample To-Do list web app written in React JS.
