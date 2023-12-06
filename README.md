@@ -124,10 +124,10 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 ### Day9: Self Hosted agents on Azure Virtual machine scale sets
 
-- What is a Virtual machine scale set
 - Microsoft-hosted vs. self-hosted agents
 - Use case of self-hosted agents
 - Ways to setup self-hosted agents: VM, VMSS, container
+- What is a Virtual machine scale set
 - Set up a self-hosted agent using VMSS
 - Register the agent on an agent pool
 - Install custom utilities on the agent
