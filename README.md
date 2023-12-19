@@ -1,7 +1,7 @@
 # AzureDevOps-Zero-to-Hero with real-time projects
 
 Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into concepts, demos, and real-time projects to help you master Azure DevOps and bolster your DevOps skills.
-**This playlist will be published on my YouTube channel, and it is free for anyone to use and follow along.**
+**This playlist will be published on my YouTube channel and is free for anyone to use and follow.**
 
 ### Day 0: Introduction to the Course 👇
 [![Course Introduction](https://img.youtube.com/vi/A_N5oHwwmTQ/sddefault.jpg)](https://youtu.be/A_N5oHwwmTQ)
@@ -96,80 +96,103 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure Test and Feedback extension
 
 ### Day 7: Basic Project Artifacts with Azure Artifacts 📦
-**Status**: Recording in Progress
+**Status**: Video is live, check out 👉 [Day7](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day7) 👈 folder for notes and useful links ✅
+
+#### Note: In this video, we will use a ✔ Nike Landing page as a sample application for CICD using Azure Artifacts
 
 - Overview of Azure Artifacts
-- Creating and Managing Simple Packages
-- Promoting the package
-- Basic Dependency Management
-- Sample Application: To be decided
+- Create the Azure DevOps project and check out the application code
+- Set up the infra using Azure Web App
+- Create Azure Artifacts feed to host the packages
+- Create the CI pipeline that builds the package and pushes it to the feed
+- Create the CD pipeline that consumes the package
+- Promote the package to trigger the release pipeline
+- Upstream packages in Azure Artifacts
 
-### Day 8: Azure DevOps wiki and creating Architectural diagrams
-- Overview of wiki
-- Introduction to MarkDown
-- How we can use Azure DevOps wiki to collaborate on a project
-- Importance of documentation
-- How to create effective architectural diagrams
+### Day 8: Infrastructure as Code (IaC) with Terraform and Azure DevOps🚀
 
-### Day 9: Security and Permissions in Azure DevOps 🔐
+**Status**: Video is live, check out 👉 [Day8](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day8) 👈 folder for notes and useful links ✅
+
+- Introduction to IaC and Tools
+- Various Terraform commands and workflow
+- Creating Terraform configuration files
+- Setting up terraform backend with Azure storage
+- Executing Terraform commands using CLI
+- Azure DevOps CI Pipeline to init, plan, and archive the plan file
+- Azure DevOps CD pipeline to apply the changes
+
+
+### Day9: Self Hosted agents on Azure Virtual machine scale sets
+Status: Editing in progress
+
+- Microsoft-hosted vs. self-hosted agents
+- Use case of self-hosted agents
+- Ways to setup self-hosted agents: VM, VMSS, container
+- What is a Virtual machine scale set
+- Set up a self-hosted agent using VMSS
+- Register the agent on an agent pool
+- Install custom utilities on the agent
+- Use the self-hosted agent on a pipeline
+- Comparison between self-hosted and Microsoft-hosted agents
+- work folder walkthrough on agent
+
+### Day 10 Managing Containers with Azure DevOps
+Status: Recording in progress
+- What is a container
+- Understanding Virtual machine V/s Containers.
+- Containerize a sample To-Do list web app written in React JS.
+- What are Azure container instances(ACI)
+- Azure DevOps CICD Pipeline to deploy to ACI
+
+
+### Day 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes.
+
+- Difference between Monolithic and Microservice architecture
+- 12 Factor App
+- Basic Introduction of Kubernetes
+- Deploying Microservices
+- Overview of GitOps
+- Azure DevOps CICD Pipeline for a web app running on Kubernetes
+- Sample application: GitOps Pipeline for deploying a sample application(TBD)
+
+### Day 12  Security and Permissions in Azure DevOps 🔐
 
 - Managing Access and Security Settings
 - Implementing Basic Security Practices
 - Protecting Sensitive Data in Pipelines
 - Include static code analysis and vulnerability scanning
-- Sample Application: DevSecOps Pipeline for an Online Banking Application
+- Sample Application: DevSecOps Pipeline for an Online Banking Application - Bank of Anthos
 
-### Day 10: Serverless app CICD 🐳
+### Day 13: Serverless app CICD 🐳
 
-- Understanding Containers and Docker
-- Containerizing Applications
 - Introduction to Azure functions
 - Build and release pipeline for building and deploying the code to Azure Functions
 - Sample Application: Serverless QR Code Generator
 
-### Day 11: Advanced CI/CD Pipelines and Deployment Strategies 🚢
+### Day 14: Azure DevOps wiki 
+
+- Overview of wiki
+- Introduction to MarkDown
+- How we can use Azure DevOps wiki to collaborate on a project
+
+
+### Day 15: Creating Architectural diagrams
+
+- Importance of documentation
+- How to create effective architectural diagrams using multiple tools
+- How to create animated architectural diagrams for blogs/social media
+
+### Day 16: Advanced CI/CD Pipelines and Deployment Strategies 🚢
 
 - Building Multi-Stage CI/CD Pipelines
-- Implementing Deployment Strategies (Blue-Green, Canary)
+- Implementing Canary deployment using Azure DevOps
 - Managing Pipeline Variables and Environments
 - Sample application: To be decided
 
-### Day 12: Infrastructure as Code (IaC) and Azure DevOps 📟
-
-- Introduction to IaC and Tools
-- Creating Infrastructure Definitions
-- Automating Infrastructure Provisioning using ARM template
-- Automating Infrastructure Provisioning using Terraform
-- sample app: To be decided
-
-### Day 13: Managing Containers and Microservices 🐋
-
-- Working with Containers in DevOps
-- Orchestrating Microservices with Kubernetes
-- Deploying Microservices
-- Overview of GitOps
-- Sample application: GitOps Pipeline for deploying a sample application(TBD)
-
-### Day 14: Building a Complex Real-World Project 🌐
-
-- Starting a Complex Project from Scratch
-- Iterative Development and CI/CD Integration
-- Integrating Best Practices
-
-### Day 15: Showcasing Your Knowledge and Preparing for the Future 🌟
-
-- Incorporating What You've Learned into Real-World Scenarios
-- Setting up your Github Profile, LinkedIn profile, and resume to include the projects
-- Preparing for Interviews, Networking, and Continuous Learning
-
-### Day16: Bonus Lecture: How to debug real-time issues with Azure DevOps
-- Lesson learned
-- How to start debugging your issues and ask for help wherever you are stuck
-- 10 real-time issues that we have faced during the playlist implementation and how we fixed them
 
 
 ### Contributions are welcome:
-You can raise the pull request to contribute to the course material, do not forget to star the repository.
+You can just raise the pull request to contribute to the course material; please remember to star the repository.
  
 ## 🔗 Join our community 👇  
 
