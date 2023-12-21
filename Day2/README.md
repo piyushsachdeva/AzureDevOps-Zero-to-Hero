@@ -79,7 +79,7 @@ The basic process contains three work item types:
           <li class="issue">
             <span class="icon">📗</span>About Us Page
             <ul>
-              <!-- Add specific tasks for About Us Page -->
+              <!-- Add specific tasks for the About Us Page -->
             </ul>
           </li>
           <li class="issue">
@@ -131,7 +131,7 @@ The basic process contains three work item types:
    - A prioritized list of all work items that must be addressed in the project - All the To-dos.
 
 7. **Sprint Backlog:**
-   - Subset of the product backlog that the Development Team commits to completing during a specific sprint - ALl the Sprint To-dos.
+   - Subset of the product backlog that the Development Team commits to completing during a specific sprint - ALL the Sprint To-dos.
 
 8. **Impediments:**
    - Obstacles or issues that hinder the progress of the team.
