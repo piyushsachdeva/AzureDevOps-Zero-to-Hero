@@ -141,7 +141,10 @@ Status: Recording in progress
 
 - What is a container
 - Understanding Virtual machine V/s Containers.
+- Challenges with the non-containerized applications
+- Docker Architecture
 - Containerize a sample To-Do list web app written in React JS.
+- Benefits of a multi-stage docker file
 - What are Azure container instances(ACI)
 - Azure DevOps CICD Pipeline to deploy to ACI
 
