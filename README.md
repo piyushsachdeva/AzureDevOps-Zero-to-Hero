@@ -138,6 +138,7 @@ Status: Editing in progress
 
 ### Day 10 Managing Containers with Azure DevOps
 Status: Recording in progress
+
 - What is a container
 - Understanding Virtual machine V/s Containers.
 - Containerize a sample To-Do list web app written in React JS.
@@ -147,10 +148,8 @@ Status: Recording in progress
 
 ### Day 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes.
 
-- Difference between Monolithic and Microservice architecture
-- 12 Factor App
-- Basic Introduction of Kubernetes
-- Deploying Microservices
+- Basic Introduction of Kubernetes and its benefits
+- Kubernetes Architecture
 - Overview of GitOps
 - Azure DevOps CICD Pipeline for a web app running on Kubernetes
 - Sample application: GitOps Pipeline for deploying a sample application(TBD)
