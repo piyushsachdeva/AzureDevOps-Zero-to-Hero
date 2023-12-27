@@ -122,8 +122,9 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure DevOps CD pipeline to apply the changes
 
 
-### Day9: Self Hosted agents on Azure Virtual machine scale sets
-Status: Editing in progress
+### Day9: Self Hosted agents 👨‍🔧 on Azure Virtual machine scale sets 🧑‍💻
+
+**Status**: Video is live, check out 👉 [Day9](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day9) 👈 folder for notes and useful links ✅
 
 - Microsoft-hosted vs. self-hosted agents
 - Use case of self-hosted agents
@@ -137,7 +138,7 @@ Status: Editing in progress
 - work folder walkthrough on agent
 
 ### Day 10 Managing Containers with Azure DevOps
-Status: Recording in progress
+Status: Editing in progress
 
 - What is a container
 - Understanding Virtual machine V/s Containers.
