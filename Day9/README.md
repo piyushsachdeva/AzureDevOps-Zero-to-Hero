@@ -2,7 +2,7 @@
 
 ## Check out the video below for Day9 👇
 
-[![Day9/16 - Azure DevOps Self-hosted agents on Virtual Machine Scale Sets](https://img.youtube.com/vi/xO1RG7Cc0N8sddefault.jpg)](https://youtu.be/xO1RG7Cc0N8)
+[![Day9/16 - Azure DevOps Self-hosted agents on Virtual Machine Scale Sets](https://img.youtube.com/vi/xO1RG7Cc0N8/sddefault.jpg)](https://youtu.be/xO1RG7Cc0N8)
 
 ## Microsoft-hosted vs. self-hosted agents
 
