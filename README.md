@@ -154,10 +154,14 @@ Status: Editing in progress
 
 - Basic Introduction of Kubernetes and its benefits
 - Kubernetes Architecture
-- Overview of GitOps
+- What is control plane and its components
+- What are Nodes and types of Nodes
+- What is a Pod/Deployment/Service
 - Azure DevOps CICD Pipeline for a web app running on Kubernetes
-- Sample application: GitOps Pipeline for deploying a sample application(TBD)
+- Sample application: Bank of Anthos - Microservices-based Online banking Application
 
+
+  
 ### Day 12  Security and Permissions in Azure DevOps 🔐
 
 - Managing Access and Security Settings
