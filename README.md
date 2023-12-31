@@ -138,7 +138,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - work folder walkthrough on agent
 
 ### Day 10 Managing Containers with Azure DevOps
-Status: Editing in progress
+**Status**: Video is live, check out 👉 [Day10](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day10) 👈 folder for notes and useful links ✅
 
 - What is a container
 - Understanding Virtual machine V/s Containers.
@@ -151,10 +151,11 @@ Status: Editing in progress
 
 
 ### Day 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes.
+**Status**: Editing in Progress
 
 - Basic Introduction of Kubernetes and its benefits
 - Kubernetes Architecture
-- What is control plane and its components
+- What is the control plane and its components
 - What are Nodes and types of Nodes
 - What is a Pod/Deployment/Service
 - Azure DevOps CICD Pipeline for a web app running on Kubernetes
