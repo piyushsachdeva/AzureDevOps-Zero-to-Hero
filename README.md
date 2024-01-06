@@ -159,7 +159,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - What are Nodes and types of Nodes
 - What is a Pod/Deployment/Service
 - Azure DevOps CICD Pipeline for a web app running on Kubernetes
-- Sample application: Bank of Anthos - Microservices-based Online banking Application
+- Sample application: My Health Care - Microservices-based Healthcare management app
 
 
   
