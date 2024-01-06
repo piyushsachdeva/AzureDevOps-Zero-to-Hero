@@ -66,6 +66,12 @@ https://github.com/piyushsachdeva/MyHealthClinic-AKS
    - Azure Service connection
    - Token pattern
    - Pipeline variables
+ 
+#### Steps in the pipeline
+
+<img width="805" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/64907bef-acbf-41f1-b3de-63b46681db3d">
+
+ [Image source](https://azuredevopslabs.com/labs/vstsextend/kubernetes/)
 
 ## Destroy the resources at the end of the demo
 
