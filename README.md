@@ -169,7 +169,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Implementing Basic Security Practices
 - Protecting Sensitive Data in Pipelines
 - Include static code analysis and vulnerability scanning
-- Sample Application: DevSecOps Pipeline for an Online Banking Application - Bank of Anthos
+- Sample Application: To be decided
 
 ### Day 13: Serverless app CICD 🐳
 
@@ -200,7 +200,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Contributions are welcome:
-You can just raise the pull request to contribute to the course material; please remember to star the repository.
+You can raise the pull request to contribute to the course material; please remember to star the repository.
  
 ## 🔗 Join our community 👇  
 
