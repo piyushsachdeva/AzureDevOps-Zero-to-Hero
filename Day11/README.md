@@ -1,8 +1,19 @@
 # Work IN Progress
 
-## Lab Instructions:
 
-### Pre-requisites
+## Pre-requisites
+
+### Infrastructure provisioning
+
+**Using the below script, you can provision infra for this demo**
+
+The following resources will be provisioned:
+
+* A Resource Group
+* An AKS Kubernetes Cluster
+* An Image container registry
+* A SQL Server
+* A SQL Database
 
 ``` bash
 
@@ -12,6 +23,7 @@ RGP="day11-demo-rg"
 CLUSTER_NAME="day11-demo-cluster"
 ACR_NAME="day11demoacr"
 SQLSERVER="day11-demo-sqlserver"
+DB="mhcdb"
 
 
  #Create Resource group
@@ -27,16 +39,35 @@ az acr create --resource-group $RGP --name $ACR_NAME --sku Standard --location $
 az aks update -n $CLUSTER_NAME -g $RGP --attach-acr $ACR_NAME
 
 #Create SQL Server and DB
-
 az sql server create -l $REGION -g $RGP -n $SQLSERVER -u sqladmin -p P2ssw0rd1234
 
-az sql db create -g $RGP -s $SQLSERVER -n mhcdb --service-objective S0
+az sql db create -g $RGP -s $SQLSERVER -n $DB --service-objective S0
 
 ```
 
 ## Change the Firewall settings
 
-## Destroy the resources
+## Setup Azure DevOps Project
+
+### Pre-requisites
+
+Make sure the below Azure DevOps extensions are installed and enabled in your organization
+- Replace Token
+- Kubernetes extension
+
+Once the infra is ready, go to dev.azure.com --> Project --> repos 
+and import the below git repo, which has the source code and pipeline code
+
+https://github.com/piyushsachdeva/MyHealthClinic-AKS
+
+### Build and Release Pipeline
+
+- You can create your pipeline by following along the video or editing the existing pipeline. The below details need to be updated in the pipeline:
+   - Azure Service connection
+   - Token pattern
+   - Pipeline variables
+
+## Destroy the resources at the end of the demo
 
 ```
 !/bin/bash
@@ -48,6 +79,7 @@ RGP="day11-demo-rg"
 CLUSTER_NAME="day11-demo-cluster"
 ACR_NAME="day11demoacr"
 SQLSERVER="day11-demo-sqlserver"
+DB="mhcdb"
 
 # Function to handle errors
 handle_error() {
@@ -75,8 +107,8 @@ else
 fi
 
 # Delete SQL Database
-if resource_exists $(az sql db show --resource-group $RGP --server $SQLSERVER --name YourDatabaseName --query id --output tsv); then
-    az sql db delete --resource-group $RGP --server $SQLSERVER --name YourDatabaseName || handle_error "Failed to delete SQL Database."
+if resource_exists $(az sql db show --resource-group $RGP --server $SQLSERVER --name $DB --query id --output tsv); then
+    az sql db delete --resource-group $RGP --server $SQLSERVER --name $DB || handle_error "Failed to delete SQL Database."
 else
     echo "SQL Database not found. Skipping deletion."
 fi
