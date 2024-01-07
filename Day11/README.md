@@ -45,7 +45,10 @@ az sql db create -g $RGP -s $SQLSERVER -n $DB --service-objective S0
 
 ```
 
-## Change the Firewall settings
+## Change the Firewall settings of the SQL server
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d421dd8b-1a85-447a-ad2d-f0ddb859953d)
+
 
 ## Setup Azure DevOps Project
 
@@ -66,6 +69,9 @@ https://github.com/piyushsachdeva/MyHealthClinic-AKS
    - Azure Service connection
    - Token pattern
    - Pipeline variables
+   - The Kubectl version should be the latest in the release pipeline
+   - Secrets should be updated in the deployment step
+   - ACR details in the pipeline should be updated
  
 #### Steps in the pipeline
 
