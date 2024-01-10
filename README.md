@@ -151,7 +151,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes.
-**Status**: Editing in Progress
+**Status**: Video is live, check out 👉 [Day11](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day11) 👈 folder for notes and useful links ✅
 
 - Basic Introduction of Kubernetes and its benefits
 - Kubernetes Architecture
