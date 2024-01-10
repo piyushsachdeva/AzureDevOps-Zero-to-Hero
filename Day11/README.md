@@ -15,7 +15,7 @@
 
 <img width="746" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/808131a2-e8b5-4b89-af47-5f1040c64544">
 
-### Kube Schedular
+### Kube Scheduler
 
 <img width="745" alt="image" src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/7e394ee3-37c9-4ade-82b0-95da0b0318ef">
 
