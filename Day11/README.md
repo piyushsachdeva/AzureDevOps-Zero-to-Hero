@@ -109,7 +109,7 @@ https://github.com/piyushsachdeva/MyHealthClinic-AKS
 ## Destroy the resources at the end of the demo
 
 ```
-!/bin/bash
+#!/bin/bash
 
 
 # Set environment variables
