@@ -165,11 +165,12 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
   
 ### Day 12  Security and Permissions in Azure DevOps 🔐
 
-- Managing Access and Security Settings
-- Implementing Basic Security Practices
-- Protecting Sensitive Data in Pipelines
-- Include static code analysis and vulnerability scanning
-- Sample Application: To be decided
+- Enabling advanced security in Azure DevOps
+- Dependency Scanning
+- Secret scanning and managing alerts
+- How to use secrets in your pipeline
+- Code scanning for vulnerabilities
+- Sample Application: My Health Care - Microservices-based Healthcare management app
 
 ### Day 13: Serverless app CICD 🐳
 
