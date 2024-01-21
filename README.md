@@ -122,8 +122,9 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Azure DevOps CD pipeline to apply the changes
 
 
-### Day9: Self Hosted agents on Azure Virtual machine scale sets
-Status: Editing in progress
+### Day9: Self Hosted agents 👨‍🔧 on Azure Virtual machine scale sets 🧑‍💻
+
+**Status**: Video is live, check out 👉 [Day9](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day9) 👈 folder for notes and useful links ✅
 
 - Microsoft-hosted vs. self-hosted agents
 - Use case of self-hosted agents
@@ -137,31 +138,39 @@ Status: Editing in progress
 - work folder walkthrough on agent
 
 ### Day 10 Managing Containers with Azure DevOps
-Status: Recording in progress
+**Status**: Video is live, check out 👉 [Day10](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day10) 👈 folder for notes and useful links ✅
+
 - What is a container
 - Understanding Virtual machine V/s Containers.
+- Challenges with the non-containerized applications
+- Docker Architecture
 - Containerize a sample To-Do list web app written in React JS.
+- Benefits of a multi-stage docker file
 - What are Azure container instances(ACI)
 - Azure DevOps CICD Pipeline to deploy to ACI
 
 
 ### Day 11  Implementing end-to-end CICD using Azure DevOps on Kubernetes.
+**Status**: Video is live, check out 👉 [Day11](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day11) 👈 folder for notes and useful links ✅
 
-- Difference between Monolithic and Microservice architecture
-- 12 Factor App
-- Basic Introduction of Kubernetes
-- Deploying Microservices
-- Overview of GitOps
+- Basic Introduction of Kubernetes and its benefits
+- Kubernetes Architecture
+- What is the control plane and its components
+- What are Nodes and types of Nodes
+- What is a Pod/Deployment/Service
 - Azure DevOps CICD Pipeline for a web app running on Kubernetes
-- Sample application: GitOps Pipeline for deploying a sample application(TBD)
+- Sample application: My Health Care - Microservices-based Healthcare management app
 
+
+  
 ### Day 12  Security and Permissions in Azure DevOps 🔐
 
-- Managing Access and Security Settings
-- Implementing Basic Security Practices
-- Protecting Sensitive Data in Pipelines
-- Include static code analysis and vulnerability scanning
-- Sample Application: DevSecOps Pipeline for an Online Banking Application - Bank of Anthos
+- Enabling advanced security in Azure DevOps
+- Dependency Scanning
+- Secret scanning and managing alerts
+- How to use secrets in your pipeline
+- Code scanning for vulnerabilities
+- Sample Application: My Health Care - Microservices-based Healthcare management app
 
 ### Day 13: Serverless app CICD 🐳
 
@@ -192,7 +201,7 @@ Status: Recording in progress
 
 
 ### Contributions are welcome:
-You can just raise the pull request to contribute to the course material; please remember to star the repository.
+You can raise the pull request to contribute to the course material; please remember to star the repository.
  
 ## 🔗 Join our community 👇  
 
