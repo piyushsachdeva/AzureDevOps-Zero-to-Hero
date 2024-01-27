@@ -164,6 +164,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
   
 ### Day 12  Security and Permissions in Azure DevOps 🔐
+**Status**: Video is live, check out 👉 [Day12](https://youtu.be/G6Fv4B0UQTY) 👈
 
 - Enabling advanced security in Azure DevOps
 - Dependency Scanning
@@ -173,6 +174,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Sample Application: My Health Care - Microservices-based Healthcare management app
 
 ### Day 13: Serverless app CICD 🐳
+**Status**: Recording in progress
 
 - Introduction to Azure functions
 - Build and release pipeline for building and deploying the code to Azure Functions
