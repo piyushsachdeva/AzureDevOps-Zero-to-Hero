@@ -177,6 +177,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 **Status**: Recording in progress
 
 - Introduction to Azure functions
+- Use case and benefits of an Azure function
 - Introduction to the sample app to be used for this demo: Serverless QR Code Generator
 - Demo creating the Azure function and deploying locally
 - Publishing the function to Azure using CLI tools
