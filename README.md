@@ -173,19 +173,21 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Code scanning for vulnerabilities
 - Sample Application: My Health Care - Microservices-based Healthcare management app
 
+### Day 14: Serverless app CICD 🐳
+**Status**: Recording in progress
+
+- Introduction to Azure functions
+- Introduction to the sample app to be used for this demo: Serverless QR Code Generator
+- Demo creating the Azure function and deploying locally
+- Publishing the function to Azure using CLI tools
+- Build and release pipeline for building and deploying the code to Azure Functions
+
+  
 ### Day 13: Azure DevOps wiki 
 
 - Overview of wiki
 - Introduction to MarkDown
 - How we can use Azure DevOps wiki to collaborate on a project
-
-  
-### Day 14: Serverless app CICD 🐳
-**Status**: Recording in progress
-
-- Introduction to Azure functions
-- Build and release pipeline for building and deploying the code to Azure Functions
-- Sample Application: Serverless QR Code Generator
 
 
 ### Day 15: Creating Architectural diagrams
