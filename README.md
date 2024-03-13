@@ -16,14 +16,14 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - What is a Traditional Build and Deployment workflow
 - What is a Waterfall model in SDLC
 - Problems with the traditional software development life cycle (SDLC)
-- What is Agile, and how it solves the above challenges 
+- What is Agile, and how it solve the above challenges 
 - What is DevOps and Why It Matters
 - What is CI/CD
 - What is Azure DevOps and a quick walkthrough
 - Creating an Azure DevOps Organization
 - Creating an Azure DevOps Project
 - Azure DevOps Pricing
-- Azure DevOps hosting options : Azure DevOps Services VS Azure DevOps Server
+- Azure DevOps hosting options: Azure DevOps Services VS Azure DevOps Server
 
 ### Day 2: Azure Boards and Agile Project Management 📊
 **Status**: Video is live, check out 👉 [Day2](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day2) 👈 folder for notes and useful links ✅
@@ -173,7 +173,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Code scanning for vulnerabilities
 - Sample Application: My Health Care - Microservices-based Healthcare management app
 
-### Day 14: Serverless app CICD 🐳
+### Day 13: Serverless app CICD 🐳
 **Status**: Recording in progress
 
 - Introduction to Azure functions
@@ -183,7 +183,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Build and release pipeline for building and deploying the code to Azure Functions
 
   
-### Day 13: Azure DevOps wiki 
+### Day 14: Azure DevOps wiki 
 
 - Overview of wiki
 - Introduction to MarkDown
@@ -196,12 +196,12 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - How to create effective architectural diagrams using multiple tools
 - How to create animated architectural diagrams for blogs/social media
 
-### Day 16: Advanced CI/CD Pipelines and Deployment Strategies 🚢
+### Day 16: Azure DevOps best practices 🚢
 
-- Building Multi-Stage CI/CD Pipelines
-- Implementing Canary deployment using Azure DevOps
-- Sample application: To be decided
-
+- Git branching
+- Secrets and credentials access
+- Service principal and service connection
+- Deployment strategies
 
 
 ### Contributions are welcome:
