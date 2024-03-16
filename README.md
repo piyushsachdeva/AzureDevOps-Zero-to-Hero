@@ -164,7 +164,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
   
 ### Day 12  Security and Permissions in Azure DevOps 🔐
-**Status**: Video is live, check out 👉 [Day12](https://youtu.be/G6Fv4B0UQTY) 👈
+**Status**: Video is live, check out 👉 [Day12](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day12) 👈 folder for notes and useful links ✅
 
 - Enabling advanced security in Azure DevOps
 - Dependency Scanning
@@ -174,7 +174,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Sample Application: My Health Care - Microservices-based Healthcare management app
 
 ### Day 13: Serverless app CICD 🐳
-**Status**: Recording in progress
+**Status**: Video is live, check out 👉 [Day13](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day13) 👈 folder for notes and useful links ✅
 
 - Introduction to Azure functions
 - Use case and benefits of an Azure function
@@ -185,13 +185,14 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day 14: Working with Pull Requests in Visual Studio Code and Azure DevOps
-
+**Status**: Editing in progress
 
 - How to create a pull request in VSCode
 - Managing Pull requests
 - Managing Git branch and pull request policies
   
-### Day 15: Azure DevOps wiki 
+### Day 15: Azure DevOps wiki
+**Status**: Editing in progress
 
 - Overview of wiki
 - Introduction to MarkDown
