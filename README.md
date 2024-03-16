@@ -191,11 +191,12 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - How we can use Azure DevOps wiki to collaborate on a project
 
 
-### Day 15: Creating Architectural diagrams
+### Day 15: Working with Pull Requests in Visual Studio Code and Azure DevOps
 
-- Importance of documentation
-- How to create effective architectural diagrams using multiple tools
-- How to create animated architectural diagrams for blogs/social media
+
+- How to create a pull request in VSCode
+- Managing Pull requests
+- Managing Git branch and pull request policies
 
 ### Day 16: Azure DevOps best practices 🚢
 
