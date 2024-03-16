@@ -1,3 +1,7 @@
+# Day 13/16 - Azure Functions CI CD With Azure DevOps | What is Azure Function 🚀
+## Check out the video below for Day12 👇
+
+[![Day 13/16 - Azure Functions CI CD With Azure Devops | What is Azure Function](https://img.youtube.com/vi/3D-e-G-zPc4/sddefault.jpg)](https://youtu.be/3D-e-G-zPc4)
 
 ## To publish the Azure function from your CLI to Azure, follow the instructions given in the below repo:
 
