@@ -183,20 +183,17 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Publishing the function to Azure using CLI tools
 - Build and release pipeline for building and deploying the code to Azure Functions
 
-
-### Day 14: Working with Pull Requests in Visual Studio Code and Azure DevOps
-**Status**: Editing in progress
-
-- How to create a pull request in VSCode
-- Managing Pull requests
-- Managing Git branch and pull request policies
   
-### Day 15: Azure DevOps wiki
+### Day 14: Azure DevOps wiki
 **Status**: Editing in progress
 
 - Overview of wiki
-- Introduction to MarkDown
+- Creating and editing a project Wiki
+- Publishing code as Wiki
 - How we can use Azure DevOps wiki to collaborate on a project
+
+
+### Day 15:
 
 
 ### Day 16: Azure DevOps best practices 🚢
