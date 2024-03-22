@@ -185,7 +185,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
   
 ### Day 14: Azure DevOps wiki
-**Status**: Editing in progress
+**Status**: Video is live, check out 👉 [Day14](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day14) 👈 folder for notes and useful links ✅
 
 - Overview of wiki
 - Creating and editing a project Wiki
