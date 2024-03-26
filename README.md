@@ -206,7 +206,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - Secrets and credentials access
 
 
-### Day 16: 
+### Day 16: Issue and troubleshooting Azure DevOps
 
 
 ### Contributions are welcome:
