@@ -193,15 +193,20 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - How we can use Azure DevOps wiki to collaborate on a project
 
 
-### Day 15:
+### Day 15: Azure DevOps Security best practices 🚢
 
-
-### Day 16: Azure DevOps best practices 🚢
-
-- Git branching
+- Azure DevOps Access Control
+- Organization Settings
+- Agent pools Management
+- Pipeline settings
+- Project-level Settings
+- Pipeline security
+- Repo settings
+- Authentication and Authorization
 - Secrets and credentials access
-- Service principal and service connection
-- Deployment strategies
+
+
+### Day 16: 
 
 
 ### Contributions are welcome:
