@@ -58,4 +58,8 @@ stages:
 cp -rf /home/site/wwwroot/package/* /home/site/wwwroot/
 ```
 
+## Hands-On 🗂️ - Day-7 (Azure Artifacts- DevOps)  ✅
 
+👉 https://medium.com/@ibrahims/azure-artifacts-devops-6298adae0ce5 👈
+
+If you are doing project on Hands-on follow the above blog it would be more helpful.
