@@ -13,3 +13,8 @@
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/b3a534f9-9063-49fd-afc4-eb00e133240e)
 
+## Hands-On 🗂️ - Day-5 (Azure Release Pipelines-DevOps)  ✅
+
+👉 https://medium.com/@ibrahims/azure-release-pipelines-devops-c23bd4c43066 👈
+
+If you are doing project on Hands-on follow the above blog it would be more helpful.

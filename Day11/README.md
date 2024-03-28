@@ -170,3 +170,8 @@ echo "Resources successfully deleted."
 
 ```
 
+## Hands-On 🗂️ - Day-11 (Three Tier Architecture CI CD On Kubernetes — Azure DevOps)  ✅
+
+👉 https://medium.com/@ibrahims/three-tier-architecture-ci-cd-on-kubernetes-azure-devops-bf558c16ea07 👈
+
+If you are doing project on Hands-on follow the above blog it would be more helpful.

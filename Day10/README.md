@@ -133,3 +133,9 @@ stages:
           --registry-password XXXX \
           --dns-name-label aci-demo-piyush101
 ```
+
+## Hands-On 🗂️ - Day-10 (Azure Docker Container — DevOps)  ✅
+
+👉 https://medium.com/@ibrahims/azure-docker-container-devops-4b487c4a1903 👈
+
+If you are doing project on Hands-on follow the above blog it would be more helpful.

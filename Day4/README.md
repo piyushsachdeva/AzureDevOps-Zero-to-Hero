@@ -98,5 +98,9 @@ stages:
         packageForLinux: '$(System.ArtifactsDirectory)/drop'
         RuntimeStack: 'STATICSITE|1.0'
 ```
+## Hands-On 🗂️ - Day-4 (Azure Pipeline — DevOps)  ✅
 
+👉 https://medium.com/@ibrahims/azure-pipeline-devops-b6fe8d8505ba 👈
+
+If you are doing project on Hands-on follow the above blog it would be more helpful.
 

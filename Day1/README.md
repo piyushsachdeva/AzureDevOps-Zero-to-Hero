@@ -71,4 +71,8 @@ In the basic plan, you will get the first 5 users free of cost with all the serv
 - It will create a default organization for you with the name as your email address and then redirect you to your Azure DevOps homepage at https://dev.azure.com/{yourorganizationname}
 - You can create a sample project with the name **Day1_project** and start your learning journey
 
-  
+## Hands-On 🗂️ - Day-1 (Azure Basic — DevOps)  ✅
+
+👉 https://medium.com/@ibrahims/azure-devops-basic-a5825154df8d 👈
+
+If you are doing project on Hands-on follow the above blog it would be more helpful.

@@ -80,3 +80,9 @@ Gather results in the form of screen recording and capture.
 ### Shared Steps :two_men_holding_hands:
 
 - Steps that can be shared across test cases
+
+## Hands-On 🗂️ - Day-6 (Azure Test Plan-DevOps)  ✅
+
+👉 https://medium.com/@ibrahims/azure-test-plan-devops-07bf9dc561ab 👈
+
+If you are doing project on Hands-on follow the above blog it would be more helpful.
