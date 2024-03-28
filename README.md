@@ -194,6 +194,7 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day 15: Azure DevOps Security best practices 🚢
+**Status**: Video is live, check out 👉 [Day15](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day15) 👈 folder for notes and useful links ✅
 
 - Azure DevOps Access Control
 - Organization Settings
