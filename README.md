@@ -208,7 +208,9 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 
 
 ### Day 16: Issue and troubleshooting Azure DevOps
-
+- In this video, we will discuss the most common issues you have faced throughout the series and solutions to those.
+**Status**: Video is live, check out 👉 [Day16](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day16) 👈 folder for notes and useful links ✅
+  
 
 ### Contributions are welcome:
 You can raise the pull request to contribute to the course material; please remember to star the repository.
