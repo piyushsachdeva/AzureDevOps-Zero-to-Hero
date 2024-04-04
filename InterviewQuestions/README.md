@@ -1,4 +1,8 @@
-# Bonus Video for Azure DevOps Zero to Hero Series - Scenario based Interview Questions and Solutions
+# Bonus Video for Azure DevOps Zero to Hero Series - Scenario-based Interview Questions and Solutions
+
+## Check out the video below for Day17 👇
+
+[![Bonus Video for Azure DevOps Zero to Hero Series - Scenario-based Interview Questions and Solutions](https://img.youtube.com/vi/hyFi008MWgI/sddefault.jpg)](https://youtu.be/hyFi008MWgI)
 
 
 ## Explain a typical structure of an Azure DevOps Pipeline
@@ -34,7 +38,7 @@
 
 ## What are feeds in Artifacts?
 Isolated placeholder in a repository can be categorized into Local, pre-release, Release, etc. Once your Artifacts are deployed to one environment, you promote them to another feed so that they can be deployed in another environment, with that feed being the trigger.
-Explain with the help of an example.
+Could you explain with the help of an example?
 
 ## How would you use IaaC tools such as ARM Template or Terraform to automate Infra provisioning?
 
