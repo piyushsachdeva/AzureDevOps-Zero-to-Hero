@@ -63,10 +63,24 @@ COPY --from=installer /app/build /usr/share/nginx/html
 
 Check out this [repo](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/blob/main/Day15/README.md) and Day15 Video
 
+## How can you ensure the security and privacy of secrets used in your pipeline to prevent them from being exposed?
+- Azure Key Vault and access via a variable group
+- Runtime variable, tokenize your files and replace token step inside the pipeline
+- Third-party secret management service such as Hashicorp Vault
+
 ## What is the most difficult issue you have faced while working with Azure DevOps?
-Pickup the issue that you have faced while doing hands-on on Azure DevOps if you have followed this series or followed any other resource.
-Structure your answer in STAR format
+Pick up the issue you have faced while doing hands-on on Azure DevOps if you have followed this series or any other resource.
+
+**Structure your answer in STAR format**
+
 S: Situation
+
 T: Task
+
 A: Action
+
 R: Result
+
+## How would you implement CICD of a dockerized application or a microservice based application with multiple services?
+- Check out Video 10 for ACI and Video 11 for Kubernetes
+
