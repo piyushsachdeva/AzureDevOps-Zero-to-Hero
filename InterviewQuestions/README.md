@@ -19,18 +19,22 @@
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/5892b678-3cee-45a9-89ed-a3ff6e468e8d)
 
-## What are some other deployment strategies?
-- Recreate, Canary, Ring based, Rolling Update, A/B Deloyment, Feature Flag etc
-
 
 ### End-to-End CICD Pipeline using Azure DevOps Build and Release Pipeline
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/17a5a6dc-5707-4239-9ba8-b914fd11b137)
 
+## What are some other deployment strategies?
+- Recreate, Canary, Ring based, Rolling Update, A/B Deloyment, Feature Flag etc
+
 ## Which Build repository have you used with Azure DevOps? Explain the CICD flow:
-What are feeds in Artifacts?
+
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d9340a48-8c68-4b69-856a-2be1fb34c766)
+
+## What are feeds in Artifacts?
+Isolated placeholder in a repository can be categorized into Local, pre-release, Release, etc. Once your Artifacts are deployed to one environment, you promote them to another feed so that they can be deployed in another environment, with that feed being the trigger.
+Explain with the help of an example.
 
 ## How would you use IaaC tools such as ARM Template or Terraform to automate Infra provisioning?
 
@@ -81,6 +85,6 @@ A: Action
 
 R: Result
 
-## How would you implement CICD of a dockerized application or a microservice based application with multiple services?
+## How would you implement CICD for a dockerized or microservice-based application with multiple services?
 - Check out Video 10 for ACI and Video 11 for Kubernetes
 
