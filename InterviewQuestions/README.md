@@ -1,1 +1,72 @@
+# Work in Progress 
 
+
+## Explain a typical structure of an Azure DevOps Pipeline
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/ca03a698-fd46-4cc3-90ee-a9db5d945d0d)
+
+- A trigger tells a Pipeline to run. It could be CI or Scheduled, manual(if not specified), or after another build finishes.
+- A pipeline is made up of one or more stages. A pipeline can deploy to one or more environments.
+- A stage organizes jobs in a pipeline, and each stage can have one or more jobs.
+- Each job runs on one agent, such as Ubuntu, Windows, macOS, etc. A job can also be agentless.
+- Each agent runs a job that contains one or more steps.
+- A step can be a task or script and is the smallest building block of a pipeline.
+- A task is a pre-packaged script that acts, such as invoking a REST API or publishing a build artifact.
+- An artifact is a collection of files or packages published by a run.
+
+## Which Deployment Strategy are you using in your organization? Explain the CICD flow:
+
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/5892b678-3cee-45a9-89ed-a3ff6e468e8d)
+
+## What are some other deployment strategies?
+- Recreate, Canary, Ring based, Rolling Update, A/B Deloyment, Feature Flag etc
+
+
+### End-to-End CICD Pipeline using Azure DevOps Build and Release Pipeline
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/17a5a6dc-5707-4239-9ba8-b914fd11b137)
+
+## Which Build repository have you used with Azure DevOps? Explain the CICD flow:
+What are feeds in Artifacts?
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d9340a48-8c68-4b69-856a-2be1fb34c766)
+
+## How would you use IaaC tools such as ARM Template or Terraform to automate Infra provisioning?
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d8d9b95b-6b6f-4eb3-a0fc-aa01ac6a6d85)
+
+## What is the difference between Microsoft-hosted agents and self-hosted agents?
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/ed27ff4a-4786-48c9-a4df-f70bff2f7c7a)
+
+## If Microsoft has already provided you with hosted agents, why would you set up self-hosted agents?
+Any other limitations of Microsoft-hosted agents?
+
+![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/9c9b4780-5750-46a2-986e-e705bcee6ef6)
+
+## I am building a Docker image that is taking a long time and is huge. How can I reduce the image size and speed up the process?
+
+Multistage Docker Build
+
+```
+FROM node:18-alpine AS installer
+WORKDIR /app
+COPY package*.json ./
+RUN npm install
+COPY . .
+RUN npm run build
+FROM nginx:latest AS deployer
+COPY --from=installer /app/build /usr/share/nginx/html
+```
+## Explain some of the Azure DevOps Best Practices:
+
+Check out this [repo](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/blob/main/Day15/README.md) and Day15 Video
+
+## What is the most difficult issue you have faced while working with Azure DevOps?
+Pickup the issue that you have faced while doing hands-on on Azure DevOps if you have followed this series or followed any other resource.
+Structure your answer in STAR format
+S: Situation
+T: Task
+A: Action
+R: Result
