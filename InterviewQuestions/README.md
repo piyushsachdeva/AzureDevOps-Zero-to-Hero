@@ -2,7 +2,7 @@
 
 ## Check out the video below for Day17 👇
 
-[![Bonus Video for Azure DevOps Zero to Hero Series - Scenario-based Interview Questions and Solutions](https://img.youtube.com/vi/hyFi008MWgI/sddefault.jpg)](https://youtu.be/hyFi008MWgI)
+[![Bonus Video for Azure DevOps Zero to Hero Series - Scenario-based Interview Questions and Solutions](https://img.youtube.com/vi/u5uSDMM9ydc/sddefault.jpg)](https://youtu.be/u5uSDMM9ydc)
 
 
 ## Explain a typical structure of an Azure DevOps Pipeline
