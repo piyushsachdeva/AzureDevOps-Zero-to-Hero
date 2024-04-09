@@ -211,8 +211,9 @@ Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into 
 - In this video, we will discuss the most common issues you have faced throughout the series and solutions to those.
 **Status**: Video is live, check out 👉 [Day16](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/Day16) 👈 folder for notes and useful links ✅
   
-### Bonus Video: Azure DevOps Scenario-based Interview Questions
-**Status**: Editing in progress
+### Day 17: Bonus Video: Azure DevOps Scenario-based Interview Questions
+- In this video, we will discuss the most asked scenario-based interview questions and answers for Azure DevOps
+**Status**: Video is live, check out 👉 [InterviewQuestions](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/tree/main/InterviewQuestions) 👈 folder for notes and useful links ✅
 
 ### Contributions are welcome:
 You can raise the pull request to contribute to the course material; please remember to star the repository.
