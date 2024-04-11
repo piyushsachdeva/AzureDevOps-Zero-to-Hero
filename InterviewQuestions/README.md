@@ -36,8 +36,8 @@
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d9340a48-8c68-4b69-856a-2be1fb34c766)
 
-## What are feeds in Artifacts?
-Isolated placeholder in a repository can be categorized into Local, pre-release, Release, etc. Once your Artifacts are deployed to one environment, you promote them to another feed so that they can be deployed in another environment, with that feed being the trigger.
+## What are views in an Artifacts feed?
+Isolated placeholder in a repository can be categorized into Local, pre-release, Release, etc. Once your Artifacts are deployed to one environment, you promote them to another view so that they can be deployed in another environment, with that view being the trigger.
 Could you explain with the help of an example?
 
 ## How would you use IaaC tools such as ARM Template or Terraform to automate Infra provisioning?
