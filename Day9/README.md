@@ -21,5 +21,11 @@
 - A group of one or more identical Virtual machines that can be scaled out and scaled in based on the demand/schedule and manual actions.
 - This ensures high availability and fault tolerance so that if one VM crashes, another gets provisioned using the template.
 - This is similar to AWS AutoScaling Groups or GCP Managed Instance Groups.
+
+## Hands-On 🗂️ - Day-9 (Azure Virtual Machine Scale Set Agents | VMSS — DevOps)  ✅
+
+👉 https://medium.com/@ibrahims/azure-virtual-machine-scale-set-agents-vmss-devops-45f8fa40523d 👈
+
+If you are doing project on Hands-on follow the above blog it would be more helpful.
   
 

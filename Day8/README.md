@@ -130,5 +130,9 @@ stages:
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/5d17e417-8a7d-49a6-8c9d-b120e236fde8)
 
 
+### Hands-On 🗂️ - Day-8 (Azure Terraform Pipeline — DevOps)  ✅
 
+👉 https://medium.com/@ibrahims/azure-terraform-pipeline-devops-b57005a37936 👈
+
+If you are doing project on Hands-on follow the above blog it would be more helpful.
 
