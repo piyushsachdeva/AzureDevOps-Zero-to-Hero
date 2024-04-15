@@ -46,7 +46,7 @@ You must purchase computing, storage, and hardware to run an application. Cloud 
 
 
 ## What is Azure DevOps 🤷‍♂️
-Azure DevOps is a suite of services you can implement end-to-end DevOps in your organization. It includes services such as Azure Repos, Boards, Wiki, Build and Release pipelines, Test plans, Artifacts, etc.
+Azure DevOps is a suite of services that allows you to implement end-to-end DevOps in your organization. It includes services such as Azure Repos, Boards, Wikis, Build and Release pipelines, Test plans, and Artifacts.
 
 ## Type of Hosting Options 🚀
 You can work in the cloud using **Azure DevOps Services** or on-premises using **Azure DevOps Server**.
@@ -72,3 +72,5 @@ In the basic plan, you will get the first 5 users free of cost with all the serv
 - You can create a sample project with the name **Day1_project** and start your learning journey
 
   
+## References:
+https://medium.com/@piyush.sachdeva055/what-is-devops-cloud-agile-cicd-and-azure-devops-azure-devops-zero-to-hero-full-course-e22225e385cf
