@@ -5,7 +5,7 @@
 [![Azure DevOps Boards](https://img.youtube.com/vi/vjqhGJMFhFI/sddefault.jpg)](https://youtu.be/vjqhGJMFhFI)
 
 ## Azure DevOps Demo Generator
-**Use these steps to load dummy data into your Azure DevOps project, we will use this data in the demo.**
+**Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo.**
 
 1. Navigate to https://azuredevopsdemogenerator.azurewebsites.net. This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab. 
 
@@ -169,6 +169,10 @@ A Sprint(also known as Iteration in Azure DevOps) is the amount of time we have 
 **Customers/Users:** The ultimate product or service consumers. Their needs and feedback are crucial for shaping the product and ensuring it meets user requirements.
 
 **Management:** Leadership and management teams may be involved to support the Scrum Team, remove organizational impediments, and align the project with overall business goals.
+
+## References:
+
+https://medium.com/@piyush.sachdeva055/azure-boards-and-agile-project-management-afe2a7029578
 
 **External Vendors/Partners:** External entities may sometimes be involved, such as vendors providing specific components or services that integrate into the project.
 
