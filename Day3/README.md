@@ -11,7 +11,7 @@
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/552cf47f-77cc-467f-82e4-6ef8b59c252a)
 
 
-Version control systems are software that help you track changes you make in your code over time. As you edit your code, you tell the version control system to take a snapshot of your files. The version control system saves that snapshot permanently, so you can recall it later if you need it. Use version control to save your work and coordinate code changes across your team.
+Version control systems are software that helps you track changes you make in your code over time. As you edit your code, you tell the version control system to take a snapshot of your files. The system saves that snapshot permanently so you can recall it later if you need it. Use version control to save your work and coordinate code changes across your team.
 
 Even if you are working on a personal project, version control helps you stay organized as you fix bugs and develop new features. Version control keeps your development history so you can quickly review and even roll back to any code version.
 
@@ -50,16 +50,19 @@ Azure Repos supports two types of Version Control:
 
 
 ### Git
-Git is the most popular distributed version control system, which allows developers to download the entire code repository locally with all the versions and make the changes remotely/offline. Changes can be synced to the remote server afterward.
+Git is the most popular distributed version control system. It allows developers to download the entire code repository locally with all the versions and make the changes remotely/offline. Afterward, changes can be synced to the remote server.
 
 To interact with Git, you can make use of Git clients such as Git for Windows, VSCode, etc
 Git provides a version control system, but you need a hosting service to host your codebase(repositories). You can use git hosting services such as GitHub, Azure Repos, Bitbucket, Gitlab, etc.
 
 ### TFVC
-Another type of version control system is TFVC, a centralized version control. In TFVC, only a single codebase version is downloaded locally, historical data is maintained on the central server. You can host TFVC on hosting services such as Perforce, SVC, Azure Repos, etc.
+Another type of version control system is TFVC, a centralized version control. In TFVC, only a single codebase version is downloaded locally, and historical data is maintained on the central server. You can host TFVC using hosting services such as Perforce, SVC, Azure Repos, etc.
 
 
 ## Working with branches
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/b39d56b3-19e7-49f1-9c42-99c183f01bbf)
 
+## References
+
+https://medium.com/@piyush.sachdeva055/azure-devops-repos-simplified-469681ed55c2
