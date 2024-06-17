@@ -2,7 +2,7 @@
 
 ## Check out the video below for Day10 👇
 
-[![Day10/16 - Azure DevOps CICD Pipeline on Azure Container Instances](https://img.youtube.com/vi/ul96dslvVwY/sddefault.jpg)](https://youtu.be/ul96dslvVwY)
+[![Day10/16 - Azure DevOps CICD Pipeline on Azure Container Instances](https://img.youtube.com/vi/6DJfhwG3DGQ/sddefault.jpg)](https://youtu.be/6DJfhwG3DGQ)
 
 
 ## Understanding Virtual machine V/s Containers.
