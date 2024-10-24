@@ -131,4 +131,18 @@ stages:
 
 
 
+>Note: Sharing some frequently faced issues here:
+
+### If you are facing error while terraform init/plan or apply as below:
+
+```bash
+[0m[0mThe directory /home/vsts/work/r1/a/'/home/vsts/work/r1/a/' contains no 2024-09-23T09:38:10.6153480Z [31m│[0m [0mTerraform configuration files. 2024-09-23T09:38:10.6153661Z [31m╵[0m[0m 2024-09-23T09:38:10.6153815Z [0m[0m 2024-09-23T09:38:10.6156157Z
+```
+
+#### Solution: Check the below
+Issue could be due to the fact that you have extracted the files in a different folder and running terraform commands from a different folder. Check the below examples:
+
+- You published the build artifacts to the directory `'/home/vsts/work/1/a'` which is `$(Build.ArtifactStagingDirectory)` and you are running terraform apply from this directory `/home/vsts/work/r1/a` which is `$(System.DefaultWorkingDirectory)`. Make sure you are running terraform commands from the same directory in which you have pubished the artifacts. Also, please check the directory where Extract Files step is running.
+- When you are extracting files in `$(System.DefaultWorkingDirectory)` it is extracting `$(System.DefaultWorkingDirectory)/buildid-build/buildid.zip` , suppose your build id is 41 so your folder will become `workingdirectory/41-build/41/` when you are doing init and apply , you are doing it in working directory, but ideally it should be in `workingdirectory/41-build/41` folder 
+
 
