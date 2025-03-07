@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+terraform.tfstate*
+*.tfvars
+az login and TF commands.txt
+TF connection.txt
