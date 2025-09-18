@@ -66,7 +66,7 @@ dotnet build ADOGenerator.csproj
 
 ### 7. Run the Application
 
-Finally, run the project. The application will start, and you can access it through your web browser.
+Finally, run the project. The application will start, and you can provide the details such as org name, PAT token, project name etc
 
 ```bash
 dotnet run --project ADOGenerator.csproj
