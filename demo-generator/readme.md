@@ -1,5 +1,6 @@
 # Azure DevOps Demo Generator Setup Guide
 
+<img width="985" height="834" alt="image" src="https://github.com/user-attachments/assets/b5c75000-4b8f-43ef-bd6f-c51289139e18" />
 
 
 This guide provides the steps to set up and run the Microsoft Azure DevOps Demo Generator on macOS, similar instructions can be followed for Windows and Linux 🛠️
